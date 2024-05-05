@@ -1,0 +1,751 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1816336735881684673
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1749681754997304776, guid: e253947b99156ba46b92cbdb686629b1,
+    type: 3}
+  m_PrefabInstance: {fileID: 3162424361782658967}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5504497508266485463}
+  - component: {fileID: 7624762840637994226}
+  - component: {fileID: 4024351468076064740}
+  m_Layer: 0
+  m_Name: Ambulance wheel rear right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5504497508266485463
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4093070571136533214, guid: e253947b99156ba46b92cbdb686629b1,
+    type: 3}
+  m_PrefabInstance: {fileID: 3162424361782658967}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1816336735881684673}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.009883842, y: 0.023963658, z: -0.0020013403}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 813590540741473229}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &7624762840637994226
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4706329675907411688, guid: e253947b99156ba46b92cbdb686629b1,
+    type: 3}
+  m_PrefabInstance: {fileID: 3162424361782658967}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1816336735881684673}
+  m_Mesh: {fileID: 4988312934762532996, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &4024351468076064740
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 7224199744601102592, guid: e253947b99156ba46b92cbdb686629b1,
+    type: 3}
+  m_PrefabInstance: {fileID: 3162424361782658967}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1816336735881684673}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &2412922547839179653
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2821283160988553329, guid: a7cb551f67f497e47afc5c58f564f469,
+    type: 3}
+  m_PrefabInstance: {fileID: 3365588768439862211}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3281160348606298356}
+  - component: {fileID: 2817633017873082648}
+  - component: {fileID: 4971857719861991410}
+  m_Layer: 0
+  m_Name: Ambulance wheel front right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3281160348606298356
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 9164601955598337044, guid: a7cb551f67f497e47afc5c58f564f469,
+    type: 3}
+  m_PrefabInstance: {fileID: 3365588768439862211}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2412922547839179653}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.009883842, y: -0.015963655, z: -0.002001357}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 813590540741473229}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &2817633017873082648
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4162189642223980092, guid: a7cb551f67f497e47afc5c58f564f469,
+    type: 3}
+  m_PrefabInstance: {fileID: 3365588768439862211}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2412922547839179653}
+  m_Mesh: {fileID: 4889673300610973266, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &4971857719861991410
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 7970491278452395253, guid: a7cb551f67f497e47afc5c58f564f469,
+    type: 3}
+  m_PrefabInstance: {fileID: 3365588768439862211}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2412922547839179653}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &5791652175080135644
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7419073875385172585}
+  - component: {fileID: 7503487518120919815}
+  - component: {fileID: 3914237700503831386}
+  m_Layer: 0
+  m_Name: Ambulance
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7419073875385172585
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5791652175080135644}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 813590540741473229}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &7503487518120919815
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5791652175080135644}
+  m_Mesh: {fileID: 7429108794089598297, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &3914237700503831386
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5791652175080135644}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 3055996272150503839, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 5029210610703319244, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 5017629054345748095, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 8884940142553567970, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -535131839395333617, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -492108395051690996, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 2794336483236889472, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &6758859603173220026
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8990519213233451723, guid: ab374b7de0aa57d42afe5fef3b9ae61e,
+    type: 3}
+  m_PrefabInstance: {fileID: 8526770200618196099}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7081406595356494086}
+  - component: {fileID: 3274453387921681499}
+  - component: {fileID: 4548235425121675225}
+  m_Layer: 0
+  m_Name: Ambulance wheel front left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7081406595356494086
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2534259442649440749, guid: ab374b7de0aa57d42afe5fef3b9ae61e,
+    type: 3}
+  m_PrefabInstance: {fileID: 8526770200618196099}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6758859603173220026}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.009883833, y: -0.015963655, z: -0.0020013547}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 813590540741473229}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &3274453387921681499
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 7979686425196487024, guid: ab374b7de0aa57d42afe5fef3b9ae61e,
+    type: 3}
+  m_PrefabInstance: {fileID: 8526770200618196099}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6758859603173220026}
+  m_Mesh: {fileID: -4024287340082628134, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &4548235425121675225
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8140274829768594671, guid: ab374b7de0aa57d42afe5fef3b9ae61e,
+    type: 3}
+  m_PrefabInstance: {fileID: 8526770200618196099}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6758859603173220026}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &7221218177039362651
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 5231832540316989627, guid: ef9437a49c1608e449abe9f8ba3d47e0,
+    type: 3}
+  m_PrefabInstance: {fileID: 7282196838547425431}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1761960255085145791}
+  - component: {fileID: 1984969842377875990}
+  - component: {fileID: 995824478892009221}
+  m_Layer: 0
+  m_Name: Ambulance wheel rear left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1761960255085145791
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2345069125799364666, guid: ef9437a49c1608e449abe9f8ba3d47e0,
+    type: 3}
+  m_PrefabInstance: {fileID: 7282196838547425431}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7221218177039362651}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.009883833, y: 0.023963658, z: -0.0020013403}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 813590540741473229}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &1984969842377875990
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 7535692163565726737, guid: ef9437a49c1608e449abe9f8ba3d47e0,
+    type: 3}
+  m_PrefabInstance: {fileID: 7282196838547425431}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7221218177039362651}
+  m_Mesh: {fileID: -1300669937431875570, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &995824478892009221
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2893898607157476436, guid: ef9437a49c1608e449abe9f8ba3d47e0,
+    type: 3}
+  m_PrefabInstance: {fileID: 7282196838547425431}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7221218177039362651}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &7349312823215556329
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 813590540741473229}
+  m_Layer: 0
+  m_Name: Ambulance
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &813590540741473229
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7349312823215556329}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071069, y: -0.000000030908627, z: 0.000000030908616, w: 0.70710665}
+  m_LocalPosition: {x: -11, y: 0.6, z: 2.2000008}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7419073875385172585}
+  - {fileID: 7081406595356494086}
+  - {fileID: 3281160348606298356}
+  - {fileID: 1761960255085145791}
+  - {fileID: 5504497508266485463}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &3162424361782658967
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 813590540741473229}
+    m_Modifications:
+    - target: {fileID: 1749681754997304776, guid: e253947b99156ba46b92cbdb686629b1,
+        type: 3}
+      propertyPath: m_Name
+      value: Ambulance wheel rear right
+      objectReference: {fileID: 0}
+    - target: {fileID: 4093070571136533214, guid: e253947b99156ba46b92cbdb686629b1,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10.011616
+      objectReference: {fileID: 0}
+    - target: {fileID: 4093070571136533214, guid: e253947b99156ba46b92cbdb686629b1,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39986503
+      objectReference: {fileID: 0}
+    - target: {fileID: 4093070571136533214, guid: e253947b99156ba46b92cbdb686629b1,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.19636536
+      objectReference: {fileID: 0}
+    - target: {fileID: 4093070571136533214, guid: e253947b99156ba46b92cbdb686629b1,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 4093070571136533214, guid: e253947b99156ba46b92cbdb686629b1,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 4093070571136533214, guid: e253947b99156ba46b92cbdb686629b1,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 4093070571136533214, guid: e253947b99156ba46b92cbdb686629b1,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 4093070571136533214, guid: e253947b99156ba46b92cbdb686629b1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4093070571136533214, guid: e253947b99156ba46b92cbdb686629b1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4093070571136533214, guid: e253947b99156ba46b92cbdb686629b1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e253947b99156ba46b92cbdb686629b1, type: 3}
+--- !u!1001 &3365588768439862211
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 813590540741473229}
+    m_Modifications:
+    - target: {fileID: 2821283160988553329, guid: a7cb551f67f497e47afc5c58f564f469,
+        type: 3}
+      propertyPath: m_Name
+      value: Ambulance wheel front right
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164601955598337044, guid: a7cb551f67f497e47afc5c58f564f469,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10.011616
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164601955598337044, guid: a7cb551f67f497e47afc5c58f564f469,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39986503
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164601955598337044, guid: a7cb551f67f497e47afc5c58f564f469,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.7963665
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164601955598337044, guid: a7cb551f67f497e47afc5c58f564f469,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164601955598337044, guid: a7cb551f67f497e47afc5c58f564f469,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164601955598337044, guid: a7cb551f67f497e47afc5c58f564f469,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164601955598337044, guid: a7cb551f67f497e47afc5c58f564f469,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164601955598337044, guid: a7cb551f67f497e47afc5c58f564f469,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164601955598337044, guid: a7cb551f67f497e47afc5c58f564f469,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164601955598337044, guid: a7cb551f67f497e47afc5c58f564f469,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a7cb551f67f497e47afc5c58f564f469, type: 3}
+--- !u!1001 &7282196838547425431
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 813590540741473229}
+    m_Modifications:
+    - target: {fileID: 2345069125799364666, guid: ef9437a49c1608e449abe9f8ba3d47e0,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -11.988383
+      objectReference: {fileID: 0}
+    - target: {fileID: 2345069125799364666, guid: ef9437a49c1608e449abe9f8ba3d47e0,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39986503
+      objectReference: {fileID: 0}
+    - target: {fileID: 2345069125799364666, guid: ef9437a49c1608e449abe9f8ba3d47e0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.19636536
+      objectReference: {fileID: 0}
+    - target: {fileID: 2345069125799364666, guid: ef9437a49c1608e449abe9f8ba3d47e0,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 2345069125799364666, guid: ef9437a49c1608e449abe9f8ba3d47e0,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 2345069125799364666, guid: ef9437a49c1608e449abe9f8ba3d47e0,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 2345069125799364666, guid: ef9437a49c1608e449abe9f8ba3d47e0,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 2345069125799364666, guid: ef9437a49c1608e449abe9f8ba3d47e0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2345069125799364666, guid: ef9437a49c1608e449abe9f8ba3d47e0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2345069125799364666, guid: ef9437a49c1608e449abe9f8ba3d47e0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5231832540316989627, guid: ef9437a49c1608e449abe9f8ba3d47e0,
+        type: 3}
+      propertyPath: m_Name
+      value: Ambulance wheel rear left
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef9437a49c1608e449abe9f8ba3d47e0, type: 3}
+--- !u!1001 &8526770200618196099
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 813590540741473229}
+    m_Modifications:
+    - target: {fileID: 2534259442649440749, guid: ab374b7de0aa57d42afe5fef3b9ae61e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -11.988383
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534259442649440749, guid: ab374b7de0aa57d42afe5fef3b9ae61e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39986503
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534259442649440749, guid: ab374b7de0aa57d42afe5fef3b9ae61e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.7963665
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534259442649440749, guid: ab374b7de0aa57d42afe5fef3b9ae61e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534259442649440749, guid: ab374b7de0aa57d42afe5fef3b9ae61e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534259442649440749, guid: ab374b7de0aa57d42afe5fef3b9ae61e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534259442649440749, guid: ab374b7de0aa57d42afe5fef3b9ae61e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534259442649440749, guid: ab374b7de0aa57d42afe5fef3b9ae61e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534259442649440749, guid: ab374b7de0aa57d42afe5fef3b9ae61e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2534259442649440749, guid: ab374b7de0aa57d42afe5fef3b9ae61e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8990519213233451723, guid: ab374b7de0aa57d42afe5fef3b9ae61e,
+        type: 3}
+      propertyPath: m_Name
+      value: Ambulance wheel front left
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ab374b7de0aa57d42afe5fef3b9ae61e, type: 3}

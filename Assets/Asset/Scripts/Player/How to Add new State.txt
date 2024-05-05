@@ -1,0 +1,5 @@
+1. Add new state to factory
+2. create new script for the state
+3. derivethe script from base state
+4.1. add logic and change state condition
+4.2. add logic to enter the new state from other state

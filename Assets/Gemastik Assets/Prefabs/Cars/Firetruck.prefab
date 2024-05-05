@@ -1,0 +1,754 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &413018173016742662
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4332380920687709277, guid: 08ec6c3ba9ca505458069b181bc0e62e,
+    type: 3}
+  m_PrefabInstance: {fileID: 2379382884433724169}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2407439867370476927}
+  - component: {fileID: 4607729228866446337}
+  - component: {fileID: 4991289304759953943}
+  m_Layer: 0
+  m_Name: Firetruck wheel front right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2407439867370476927
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 5076464781659655219, guid: 08ec6c3ba9ca505458069b181bc0e62e,
+    type: 3}
+  m_PrefabInstance: {fileID: 2379382884433724169}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 413018173016742662}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.012883842, y: -0.016063659, z: -0.002001357}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1933874569581313409}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &4607729228866446337
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6408391626308429535, guid: 08ec6c3ba9ca505458069b181bc0e62e,
+    type: 3}
+  m_PrefabInstance: {fileID: 2379382884433724169}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 413018173016742662}
+  m_Mesh: {fileID: 211432148421106920, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &4991289304759953943
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8994170946904720943, guid: 08ec6c3ba9ca505458069b181bc0e62e,
+    type: 3}
+  m_PrefabInstance: {fileID: 2379382884433724169}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 413018173016742662}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &1567015069232545942
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1933874569581313409}
+  m_Layer: 0
+  m_Name: Firetruck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1933874569581313409
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1567015069232545942}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071069, y: -0.000000030908627, z: 0.000000030908616, w: 0.70710665}
+  m_LocalPosition: {x: 0, y: 0.6, z: -7}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8623331110114812085}
+  - {fileID: 8545163705042711151}
+  - {fileID: 2407439867370476927}
+  - {fileID: 2889970803036247780}
+  - {fileID: 3825183520172203561}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2621864058652000658
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8623331110114812085}
+  - component: {fileID: 9187127083509475460}
+  - component: {fileID: 4072968439218940634}
+  m_Layer: 0
+  m_Name: Firetruck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8623331110114812085
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2621864058652000658}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1933874569581313409}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &9187127083509475460
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2621864058652000658}
+  m_Mesh: {fileID: -5831003445841356797, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &4072968439218940634
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2621864058652000658}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 819159104913504081, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 2794336483236889472, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 8884940142553567970, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 6460003756862070446, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 2361937419601126926, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -535131839395333617, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -492108395051690996, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -189247314553575173, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 5029210610703319244, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 3055996272150503839, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &5559552492637224640
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1462032811779562548, guid: a5455e8af7ad7e84fa7a1d20c129be47,
+    type: 3}
+  m_PrefabInstance: {fileID: 3068913682169302384}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2889970803036247780}
+  - component: {fileID: 4653410960841079601}
+  - component: {fileID: 4887710046984782348}
+  m_Layer: 0
+  m_Name: Firetruck wheel rear left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2889970803036247780
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4178090640117822057, guid: a5455e8af7ad7e84fa7a1d20c129be47,
+    type: 3}
+  m_PrefabInstance: {fileID: 3068913682169302384}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5559552492637224640}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.012883842, y: 0.053463668, z: -0.0020013284}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1933874569581313409}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &4653410960841079601
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4534193459262123192, guid: a5455e8af7ad7e84fa7a1d20c129be47,
+    type: 3}
+  m_PrefabInstance: {fileID: 3068913682169302384}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5559552492637224640}
+  m_Mesh: {fileID: 1313279581001947616, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &4887710046984782348
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8634403643329330420, guid: a5455e8af7ad7e84fa7a1d20c129be47,
+    type: 3}
+  m_PrefabInstance: {fileID: 3068913682169302384}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5559552492637224640}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &5739693594548177489
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 604691867585938015, guid: fc23ec4e44f46cd43a15ffda3b5cae76,
+    type: 3}
+  m_PrefabInstance: {fileID: 5477418086311679404}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8545163705042711151}
+  - component: {fileID: 7392048447984024039}
+  - component: {fileID: 5939236932486797933}
+  m_Layer: 0
+  m_Name: Firetruck wheel front left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8545163705042711151
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1461730050622568202, guid: fc23ec4e44f46cd43a15ffda3b5cae76,
+    type: 3}
+  m_PrefabInstance: {fileID: 5477418086311679404}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5739693594548177489}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.012883842, y: -0.016063659, z: -0.0020013547}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1933874569581313409}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &7392048447984024039
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2517809270903469514, guid: fc23ec4e44f46cd43a15ffda3b5cae76,
+    type: 3}
+  m_PrefabInstance: {fileID: 5477418086311679404}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5739693594548177489}
+  m_Mesh: {fileID: -5840646273647336239, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &5939236932486797933
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8658906963007799657, guid: fc23ec4e44f46cd43a15ffda3b5cae76,
+    type: 3}
+  m_PrefabInstance: {fileID: 5477418086311679404}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5739693594548177489}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &6499645551711389621
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2209353676604073574, guid: e559a98f4ad7a344784b565d9c9f9813,
+    type: 3}
+  m_PrefabInstance: {fileID: 8874047387444506163}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3825183520172203561}
+  - component: {fileID: 6480977696926966596}
+  - component: {fileID: 3837069427211626823}
+  m_Layer: 0
+  m_Name: Firetruck wheel rear right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3825183520172203561
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 5036685173611429669, guid: e559a98f4ad7a344784b565d9c9f9813,
+    type: 3}
+  m_PrefabInstance: {fileID: 8874047387444506163}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6499645551711389621}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.012883842, y: 0.053463668, z: -0.0020013284}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1933874569581313409}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &6480977696926966596
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 968367937178370332, guid: e559a98f4ad7a344784b565d9c9f9813,
+    type: 3}
+  m_PrefabInstance: {fileID: 8874047387444506163}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6499645551711389621}
+  m_Mesh: {fileID: -6428420176150541449, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &3837069427211626823
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8203836943637698549, guid: e559a98f4ad7a344784b565d9c9f9813,
+    type: 3}
+  m_PrefabInstance: {fileID: 8874047387444506163}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6499645551711389621}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1001 &2379382884433724169
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1933874569581313409}
+    m_Modifications:
+    - target: {fileID: 4332380920687709277, guid: 08ec6c3ba9ca505458069b181bc0e62e,
+        type: 3}
+      propertyPath: m_Name
+      value: Firetruck wheel front right
+      objectReference: {fileID: 0}
+    - target: {fileID: 5076464781659655219, guid: 08ec6c3ba9ca505458069b181bc0e62e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.2883842
+      objectReference: {fileID: 0}
+    - target: {fileID: 5076464781659655219, guid: 08ec6c3ba9ca505458069b181bc0e62e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39986503
+      objectReference: {fileID: 0}
+    - target: {fileID: 5076464781659655219, guid: 08ec6c3ba9ca505458069b181bc0e62e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.393634
+      objectReference: {fileID: 0}
+    - target: {fileID: 5076464781659655219, guid: 08ec6c3ba9ca505458069b181bc0e62e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 5076464781659655219, guid: 08ec6c3ba9ca505458069b181bc0e62e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 5076464781659655219, guid: 08ec6c3ba9ca505458069b181bc0e62e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 5076464781659655219, guid: 08ec6c3ba9ca505458069b181bc0e62e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 5076464781659655219, guid: 08ec6c3ba9ca505458069b181bc0e62e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5076464781659655219, guid: 08ec6c3ba9ca505458069b181bc0e62e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5076464781659655219, guid: 08ec6c3ba9ca505458069b181bc0e62e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 08ec6c3ba9ca505458069b181bc0e62e, type: 3}
+--- !u!1001 &3068913682169302384
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1933874569581313409}
+    m_Modifications:
+    - target: {fileID: 1462032811779562548, guid: a5455e8af7ad7e84fa7a1d20c129be47,
+        type: 3}
+      propertyPath: m_Name
+      value: Firetruck wheel rear left
+      objectReference: {fileID: 0}
+    - target: {fileID: 4178090640117822057, guid: a5455e8af7ad7e84fa7a1d20c129be47,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.2883842
+      objectReference: {fileID: 0}
+    - target: {fileID: 4178090640117822057, guid: a5455e8af7ad7e84fa7a1d20c129be47,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39986503
+      objectReference: {fileID: 0}
+    - target: {fileID: 4178090640117822057, guid: a5455e8af7ad7e84fa7a1d20c129be47,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -12.346367
+      objectReference: {fileID: 0}
+    - target: {fileID: 4178090640117822057, guid: a5455e8af7ad7e84fa7a1d20c129be47,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 4178090640117822057, guid: a5455e8af7ad7e84fa7a1d20c129be47,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 4178090640117822057, guid: a5455e8af7ad7e84fa7a1d20c129be47,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 4178090640117822057, guid: a5455e8af7ad7e84fa7a1d20c129be47,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 4178090640117822057, guid: a5455e8af7ad7e84fa7a1d20c129be47,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4178090640117822057, guid: a5455e8af7ad7e84fa7a1d20c129be47,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4178090640117822057, guid: a5455e8af7ad7e84fa7a1d20c129be47,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a5455e8af7ad7e84fa7a1d20c129be47, type: 3}
+--- !u!1001 &5477418086311679404
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1933874569581313409}
+    m_Modifications:
+    - target: {fileID: 604691867585938015, guid: fc23ec4e44f46cd43a15ffda3b5cae76,
+        type: 3}
+      propertyPath: m_Name
+      value: Firetruck wheel front left
+      objectReference: {fileID: 0}
+    - target: {fileID: 1461730050622568202, guid: fc23ec4e44f46cd43a15ffda3b5cae76,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.2883842
+      objectReference: {fileID: 0}
+    - target: {fileID: 1461730050622568202, guid: fc23ec4e44f46cd43a15ffda3b5cae76,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39986503
+      objectReference: {fileID: 0}
+    - target: {fileID: 1461730050622568202, guid: fc23ec4e44f46cd43a15ffda3b5cae76,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.393634
+      objectReference: {fileID: 0}
+    - target: {fileID: 1461730050622568202, guid: fc23ec4e44f46cd43a15ffda3b5cae76,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 1461730050622568202, guid: fc23ec4e44f46cd43a15ffda3b5cae76,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 1461730050622568202, guid: fc23ec4e44f46cd43a15ffda3b5cae76,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 1461730050622568202, guid: fc23ec4e44f46cd43a15ffda3b5cae76,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 1461730050622568202, guid: fc23ec4e44f46cd43a15ffda3b5cae76,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1461730050622568202, guid: fc23ec4e44f46cd43a15ffda3b5cae76,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1461730050622568202, guid: fc23ec4e44f46cd43a15ffda3b5cae76,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fc23ec4e44f46cd43a15ffda3b5cae76, type: 3}
+--- !u!1001 &8874047387444506163
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1933874569581313409}
+    m_Modifications:
+    - target: {fileID: 2209353676604073574, guid: e559a98f4ad7a344784b565d9c9f9813,
+        type: 3}
+      propertyPath: m_Name
+      value: Firetruck wheel rear right
+      objectReference: {fileID: 0}
+    - target: {fileID: 5036685173611429669, guid: e559a98f4ad7a344784b565d9c9f9813,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.2883842
+      objectReference: {fileID: 0}
+    - target: {fileID: 5036685173611429669, guid: e559a98f4ad7a344784b565d9c9f9813,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39986503
+      objectReference: {fileID: 0}
+    - target: {fileID: 5036685173611429669, guid: e559a98f4ad7a344784b565d9c9f9813,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -12.346367
+      objectReference: {fileID: 0}
+    - target: {fileID: 5036685173611429669, guid: e559a98f4ad7a344784b565d9c9f9813,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 5036685173611429669, guid: e559a98f4ad7a344784b565d9c9f9813,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 5036685173611429669, guid: e559a98f4ad7a344784b565d9c9f9813,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 5036685173611429669, guid: e559a98f4ad7a344784b565d9c9f9813,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 5036685173611429669, guid: e559a98f4ad7a344784b565d9c9f9813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5036685173611429669, guid: e559a98f4ad7a344784b565d9c9f9813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5036685173611429669, guid: e559a98f4ad7a344784b565d9c9f9813,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e559a98f4ad7a344784b565d9c9f9813, type: 3}

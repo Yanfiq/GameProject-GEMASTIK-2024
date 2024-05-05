@@ -1,0 +1,751 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &591187830953885802
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2119359032966327541, guid: fa73f8e882d36a84da389fb45e6ccbbd,
+    type: 3}
+  m_PrefabInstance: {fileID: 257623393154262898}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 804459945361145873}
+  - component: {fileID: 8486879572932948931}
+  - component: {fileID: 5728190857461974602}
+  m_Layer: 0
+  m_Name: Roadster wheel rear left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &804459945361145873
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 5415576947212413378, guid: fa73f8e882d36a84da389fb45e6ccbbd,
+    type: 3}
+  m_PrefabInstance: {fileID: 257623393154262898}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 591187830953885802}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.0104066655, y: 0.016108342, z: -0.002001493}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5677450062918444711}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &8486879572932948931
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 3932279092875026339, guid: fa73f8e882d36a84da389fb45e6ccbbd,
+    type: 3}
+  m_PrefabInstance: {fileID: 257623393154262898}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 591187830953885802}
+  m_Mesh: {fileID: 1419946328185187628, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &5728190857461974602
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 5523002589017761848, guid: fa73f8e882d36a84da389fb45e6ccbbd,
+    type: 3}
+  m_PrefabInstance: {fileID: 257623393154262898}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 591187830953885802}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &2161823626647183050
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6404292538187815853, guid: f94f78e4b06dda74280a7f457be2ac2f,
+    type: 3}
+  m_PrefabInstance: {fileID: 1918449932907807181}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5685486813744426146}
+  - component: {fileID: 5206891568917341127}
+  - component: {fileID: 1483146303532191224}
+  m_Layer: 0
+  m_Name: Roadster wheel rear right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5685486813744426146
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 785173607658047271, guid: f94f78e4b06dda74280a7f457be2ac2f,
+    type: 3}
+  m_PrefabInstance: {fileID: 1918449932907807181}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2161823626647183050}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0104066655, y: 0.016108342, z: -0.0020014953}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5677450062918444711}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &5206891568917341127
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 3437881487512480599, guid: f94f78e4b06dda74280a7f457be2ac2f,
+    type: 3}
+  m_PrefabInstance: {fileID: 1918449932907807181}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2161823626647183050}
+  m_Mesh: {fileID: -5027982927432155611, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &1483146303532191224
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 3039711590373855883, guid: f94f78e4b06dda74280a7f457be2ac2f,
+    type: 3}
+  m_PrefabInstance: {fileID: 1918449932907807181}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2161823626647183050}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &2609307239626153403
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6034845042979030550, guid: ab366a1db248ecb44972c403ebb1063c,
+    type: 3}
+  m_PrefabInstance: {fileID: 1332881079842006612}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4548343038304227551}
+  - component: {fileID: 4495899107582791257}
+  - component: {fileID: 5588583200028425161}
+  m_Layer: 0
+  m_Name: Roadster wheel front right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4548343038304227551
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 3728843214799398374, guid: ab366a1db248ecb44972c403ebb1063c,
+    type: 3}
+  m_PrefabInstance: {fileID: 1332881079842006612}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2609307239626153403}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0104066655, y: -0.016091669, z: -0.0020015072}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5677450062918444711}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &4495899107582791257
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1887443639629026523, guid: ab366a1db248ecb44972c403ebb1063c,
+    type: 3}
+  m_PrefabInstance: {fileID: 1332881079842006612}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2609307239626153403}
+  m_Mesh: {fileID: -2583314333476459179, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &5588583200028425161
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 3945600089978487819, guid: ab366a1db248ecb44972c403ebb1063c,
+    type: 3}
+  m_PrefabInstance: {fileID: 1332881079842006612}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2609307239626153403}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &5547784874584998157
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4456948772212185638, guid: 4921d02304f27b0449833149dde74c3d,
+    type: 3}
+  m_PrefabInstance: {fileID: 3198263243605580928}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1448013788927178211}
+  - component: {fileID: 6882741454833676023}
+  - component: {fileID: 6881185494756603806}
+  m_Layer: 0
+  m_Name: Roadster wheel front left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1448013788927178211
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2435426399876944479, guid: 4921d02304f27b0449833149dde74c3d,
+    type: 3}
+  m_PrefabInstance: {fileID: 3198263243605580928}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5547784874584998157}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.0104066655, y: -0.016091669, z: -0.0020015049}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5677450062918444711}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &6882741454833676023
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 3380445372377198070, guid: 4921d02304f27b0449833149dde74c3d,
+    type: 3}
+  m_PrefabInstance: {fileID: 3198263243605580928}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5547784874584998157}
+  m_Mesh: {fileID: 2084210478278378852, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &6881185494756603806
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2365473808237126474, guid: 4921d02304f27b0449833149dde74c3d,
+    type: 3}
+  m_PrefabInstance: {fileID: 3198263243605580928}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5547784874584998157}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &5809227787785132692
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5677450062918444711}
+  m_Layer: 0
+  m_Name: Roadster
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5677450062918444711
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5809227787785132692}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071069, y: -0.000000030908627, z: 0.000000030908616, w: 0.70710665}
+  m_LocalPosition: {x: 9, y: 0.6, z: 10}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3325427101494927849}
+  - {fileID: 1448013788927178211}
+  - {fileID: 4548343038304227551}
+  - {fileID: 804459945361145873}
+  - {fileID: 5685486813744426146}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5967546783761832602
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3325427101494927849}
+  - component: {fileID: 2516195707453177511}
+  - component: {fileID: 4355935328309856980}
+  m_Layer: 0
+  m_Name: Roadster
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3325427101494927849
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5967546783761832602}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5677450062918444711}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &2516195707453177511
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5967546783761832602}
+  m_Mesh: {fileID: -4378418441446902598, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &4355935328309856980
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5967546783761832602}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -3325821875220112471, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 8884940142553567970, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 3055996272150503839, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -535131839395333617, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -492108395051690996, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 5029210610703319244, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -3888191563849743607, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1001 &257623393154262898
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5677450062918444711}
+    m_Modifications:
+    - target: {fileID: 2119359032966327541, guid: fa73f8e882d36a84da389fb45e6ccbbd,
+        type: 3}
+      propertyPath: m_Name
+      value: Roadster wheel rear left
+      objectReference: {fileID: 0}
+    - target: {fileID: 5415576947212413378, guid: fa73f8e882d36a84da389fb45e6ccbbd,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.9593334
+      objectReference: {fileID: 0}
+    - target: {fileID: 5415576947212413378, guid: fa73f8e882d36a84da389fb45e6ccbbd,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39985
+      objectReference: {fileID: 0}
+    - target: {fileID: 5415576947212413378, guid: fa73f8e882d36a84da389fb45e6ccbbd,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8.389166
+      objectReference: {fileID: 0}
+    - target: {fileID: 5415576947212413378, guid: fa73f8e882d36a84da389fb45e6ccbbd,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 5415576947212413378, guid: fa73f8e882d36a84da389fb45e6ccbbd,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 5415576947212413378, guid: fa73f8e882d36a84da389fb45e6ccbbd,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 5415576947212413378, guid: fa73f8e882d36a84da389fb45e6ccbbd,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 5415576947212413378, guid: fa73f8e882d36a84da389fb45e6ccbbd,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5415576947212413378, guid: fa73f8e882d36a84da389fb45e6ccbbd,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5415576947212413378, guid: fa73f8e882d36a84da389fb45e6ccbbd,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fa73f8e882d36a84da389fb45e6ccbbd, type: 3}
+--- !u!1001 &1332881079842006612
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5677450062918444711}
+    m_Modifications:
+    - target: {fileID: 3728843214799398374, guid: ab366a1db248ecb44972c403ebb1063c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.040667
+      objectReference: {fileID: 0}
+    - target: {fileID: 3728843214799398374, guid: ab366a1db248ecb44972c403ebb1063c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39985
+      objectReference: {fileID: 0}
+    - target: {fileID: 3728843214799398374, guid: ab366a1db248ecb44972c403ebb1063c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.609167
+      objectReference: {fileID: 0}
+    - target: {fileID: 3728843214799398374, guid: ab366a1db248ecb44972c403ebb1063c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 3728843214799398374, guid: ab366a1db248ecb44972c403ebb1063c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 3728843214799398374, guid: ab366a1db248ecb44972c403ebb1063c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 3728843214799398374, guid: ab366a1db248ecb44972c403ebb1063c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 3728843214799398374, guid: ab366a1db248ecb44972c403ebb1063c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3728843214799398374, guid: ab366a1db248ecb44972c403ebb1063c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3728843214799398374, guid: ab366a1db248ecb44972c403ebb1063c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6034845042979030550, guid: ab366a1db248ecb44972c403ebb1063c,
+        type: 3}
+      propertyPath: m_Name
+      value: Roadster wheel front right
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ab366a1db248ecb44972c403ebb1063c, type: 3}
+--- !u!1001 &1918449932907807181
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5677450062918444711}
+    m_Modifications:
+    - target: {fileID: 785173607658047271, guid: f94f78e4b06dda74280a7f457be2ac2f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.040667
+      objectReference: {fileID: 0}
+    - target: {fileID: 785173607658047271, guid: f94f78e4b06dda74280a7f457be2ac2f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39985
+      objectReference: {fileID: 0}
+    - target: {fileID: 785173607658047271, guid: f94f78e4b06dda74280a7f457be2ac2f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8.389166
+      objectReference: {fileID: 0}
+    - target: {fileID: 785173607658047271, guid: f94f78e4b06dda74280a7f457be2ac2f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 785173607658047271, guid: f94f78e4b06dda74280a7f457be2ac2f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 785173607658047271, guid: f94f78e4b06dda74280a7f457be2ac2f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 785173607658047271, guid: f94f78e4b06dda74280a7f457be2ac2f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 785173607658047271, guid: f94f78e4b06dda74280a7f457be2ac2f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 785173607658047271, guid: f94f78e4b06dda74280a7f457be2ac2f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 785173607658047271, guid: f94f78e4b06dda74280a7f457be2ac2f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6404292538187815853, guid: f94f78e4b06dda74280a7f457be2ac2f,
+        type: 3}
+      propertyPath: m_Name
+      value: Roadster wheel rear right
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f94f78e4b06dda74280a7f457be2ac2f, type: 3}
+--- !u!1001 &3198263243605580928
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5677450062918444711}
+    m_Modifications:
+    - target: {fileID: 2435426399876944479, guid: 4921d02304f27b0449833149dde74c3d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.9593334
+      objectReference: {fileID: 0}
+    - target: {fileID: 2435426399876944479, guid: 4921d02304f27b0449833149dde74c3d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39985
+      objectReference: {fileID: 0}
+    - target: {fileID: 2435426399876944479, guid: 4921d02304f27b0449833149dde74c3d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.609167
+      objectReference: {fileID: 0}
+    - target: {fileID: 2435426399876944479, guid: 4921d02304f27b0449833149dde74c3d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 2435426399876944479, guid: 4921d02304f27b0449833149dde74c3d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 2435426399876944479, guid: 4921d02304f27b0449833149dde74c3d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 2435426399876944479, guid: 4921d02304f27b0449833149dde74c3d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 2435426399876944479, guid: 4921d02304f27b0449833149dde74c3d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2435426399876944479, guid: 4921d02304f27b0449833149dde74c3d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2435426399876944479, guid: 4921d02304f27b0449833149dde74c3d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4456948772212185638, guid: 4921d02304f27b0449833149dde74c3d,
+        type: 3}
+      propertyPath: m_Name
+      value: Roadster wheel front left
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4921d02304f27b0449833149dde74c3d, type: 3}

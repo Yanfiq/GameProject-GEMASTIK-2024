@@ -1,0 +1,750 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2480297371565586837
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8620342104131702263, guid: f66c100ef8723164498a3b105afc9428,
+    type: 3}
+  m_PrefabInstance: {fileID: 9170065011425252772}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3852328227462173507}
+  - component: {fileID: 4092272126679855500}
+  - component: {fileID: 5066082388153014614}
+  m_Layer: 0
+  m_Name: Hatchback wheel rear right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3852328227462173507
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 3869290609331466878, guid: f66c100ef8723164498a3b105afc9428,
+    type: 3}
+  m_PrefabInstance: {fileID: 9170065011425252772}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2480297371565586837}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0102653885, y: 0.016088247, z: -0.0019999945}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5472012298522788062}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &4092272126679855500
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8535960543321656175, guid: f66c100ef8723164498a3b105afc9428,
+    type: 3}
+  m_PrefabInstance: {fileID: 9170065011425252772}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2480297371565586837}
+  m_Mesh: {fileID: 4742691962511746778, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &5066082388153014614
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2827820817406165398, guid: f66c100ef8723164498a3b105afc9428,
+    type: 3}
+  m_PrefabInstance: {fileID: 9170065011425252772}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2480297371565586837}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &3312436273724146800
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6514966422643453612, guid: 91279c34630d6334c9f94237433aa48e,
+    type: 3}
+  m_PrefabInstance: {fileID: 7389132658973885092}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5734430539264266826}
+  - component: {fileID: 2121959048791007385}
+  - component: {fileID: 5382262841834276183}
+  m_Layer: 0
+  m_Name: Hatchback wheel front right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5734430539264266826
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 3373521268263081237, guid: 91279c34630d6334c9f94237433aa48e,
+    type: 3}
+  m_PrefabInstance: {fileID: 7389132658973885092}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3312436273724146800}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0102653885, y: -0.016088225, z: -0.0020000064}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5472012298522788062}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &2121959048791007385
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 5876503182145645521, guid: 91279c34630d6334c9f94237433aa48e,
+    type: 3}
+  m_PrefabInstance: {fileID: 7389132658973885092}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3312436273724146800}
+  m_Mesh: {fileID: -2705534010621991817, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &5382262841834276183
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8247615020847704591, guid: 91279c34630d6334c9f94237433aa48e,
+    type: 3}
+  m_PrefabInstance: {fileID: 7389132658973885092}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3312436273724146800}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &4442836394197199640
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2177632652819794849, guid: 7f904980f7c899b45b2ab57394d67be1,
+    type: 3}
+  m_PrefabInstance: {fileID: 5066977755524384601}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3686775934241046835}
+  - component: {fileID: 4228977554926838027}
+  - component: {fileID: 9165835491377249309}
+  m_Layer: 0
+  m_Name: Hatchback wheel front left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3686775934241046835
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8311674107286637262, guid: 7f904980f7c899b45b2ab57394d67be1,
+    type: 3}
+  m_PrefabInstance: {fileID: 5066977755524384601}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4442836394197199640}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.010265378, y: -0.016088225, z: -0.002000004}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5472012298522788062}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &4228977554926838027
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 7478682687123214748, guid: 7f904980f7c899b45b2ab57394d67be1,
+    type: 3}
+  m_PrefabInstance: {fileID: 5066977755524384601}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4442836394197199640}
+  m_Mesh: {fileID: 559014251788917434, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &9165835491377249309
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 992794443268706693, guid: 7f904980f7c899b45b2ab57394d67be1,
+    type: 3}
+  m_PrefabInstance: {fileID: 5066977755524384601}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4442836394197199640}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &5701404916854852866
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4889757554079642210, guid: 59d222f5e752e7d41b1f5fdbda9d8343,
+    type: 3}
+  m_PrefabInstance: {fileID: 4778561242190886845}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4802767777919276391}
+  - component: {fileID: 4149313549049560093}
+  - component: {fileID: 3232490302316481820}
+  m_Layer: 0
+  m_Name: Hatchback wheel rear left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4802767777919276391
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8562202144446417519, guid: 59d222f5e752e7d41b1f5fdbda9d8343,
+    type: 3}
+  m_PrefabInstance: {fileID: 4778561242190886845}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5701404916854852866}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.010265378, y: 0.016088247, z: -0.0019999922}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5472012298522788062}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &4149313549049560093
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 9102551081846295665, guid: 59d222f5e752e7d41b1f5fdbda9d8343,
+    type: 3}
+  m_PrefabInstance: {fileID: 4778561242190886845}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5701404916854852866}
+  m_Mesh: {fileID: 5763162814674854002, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &3232490302316481820
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2998712398026990631, guid: 59d222f5e752e7d41b1f5fdbda9d8343,
+    type: 3}
+  m_PrefabInstance: {fileID: 4778561242190886845}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5701404916854852866}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &6831978952994811748
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5114568987553657492}
+  - component: {fileID: 4347789134522971023}
+  - component: {fileID: 4298939188120185433}
+  m_Layer: 0
+  m_Name: Hatchback
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5114568987553657492
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6831978952994811748}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5472012298522788062}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &4347789134522971023
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6831978952994811748}
+  m_Mesh: {fileID: 6740193960710479467, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &4298939188120185433
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6831978952994811748}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 3055996272150503839, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -189247314553575173, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 8884940142553567970, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -535131839395333617, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -492108395051690996, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 5029210610703319244, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &8283261495727970112
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5472012298522788062}
+  m_Layer: 0
+  m_Name: Hatchback
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5472012298522788062
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8283261495727970112}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071069, y: -0.000000030908627, z: 0.000000030908616, w: 0.70710665}
+  m_LocalPosition: {x: -6, y: 0.6, z: 10}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5114568987553657492}
+  - {fileID: 3686775934241046835}
+  - {fileID: 5734430539264266826}
+  - {fileID: 4802767777919276391}
+  - {fileID: 3852328227462173507}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &4778561242190886845
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5472012298522788062}
+    m_Modifications:
+    - target: {fileID: 4889757554079642210, guid: 59d222f5e752e7d41b1f5fdbda9d8343,
+        type: 3}
+      propertyPath: m_Name
+      value: Hatchback wheel rear left
+      objectReference: {fileID: 0}
+    - target: {fileID: 8562202144446417519, guid: 59d222f5e752e7d41b1f5fdbda9d8343,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.026538
+      objectReference: {fileID: 0}
+    - target: {fileID: 8562202144446417519, guid: 59d222f5e752e7d41b1f5fdbda9d8343,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.40000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 8562202144446417519, guid: 59d222f5e752e7d41b1f5fdbda9d8343,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8.391175
+      objectReference: {fileID: 0}
+    - target: {fileID: 8562202144446417519, guid: 59d222f5e752e7d41b1f5fdbda9d8343,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 8562202144446417519, guid: 59d222f5e752e7d41b1f5fdbda9d8343,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 8562202144446417519, guid: 59d222f5e752e7d41b1f5fdbda9d8343,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 8562202144446417519, guid: 59d222f5e752e7d41b1f5fdbda9d8343,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 8562202144446417519, guid: 59d222f5e752e7d41b1f5fdbda9d8343,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8562202144446417519, guid: 59d222f5e752e7d41b1f5fdbda9d8343,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8562202144446417519, guid: 59d222f5e752e7d41b1f5fdbda9d8343,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 59d222f5e752e7d41b1f5fdbda9d8343, type: 3}
+--- !u!1001 &5066977755524384601
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5472012298522788062}
+    m_Modifications:
+    - target: {fileID: 2177632652819794849, guid: 7f904980f7c899b45b2ab57394d67be1,
+        type: 3}
+      propertyPath: m_Name
+      value: Hatchback wheel front left
+      objectReference: {fileID: 0}
+    - target: {fileID: 8311674107286637262, guid: 7f904980f7c899b45b2ab57394d67be1,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.026538
+      objectReference: {fileID: 0}
+    - target: {fileID: 8311674107286637262, guid: 7f904980f7c899b45b2ab57394d67be1,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.40000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 8311674107286637262, guid: 7f904980f7c899b45b2ab57394d67be1,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.608823
+      objectReference: {fileID: 0}
+    - target: {fileID: 8311674107286637262, guid: 7f904980f7c899b45b2ab57394d67be1,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 8311674107286637262, guid: 7f904980f7c899b45b2ab57394d67be1,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 8311674107286637262, guid: 7f904980f7c899b45b2ab57394d67be1,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 8311674107286637262, guid: 7f904980f7c899b45b2ab57394d67be1,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 8311674107286637262, guid: 7f904980f7c899b45b2ab57394d67be1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8311674107286637262, guid: 7f904980f7c899b45b2ab57394d67be1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8311674107286637262, guid: 7f904980f7c899b45b2ab57394d67be1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7f904980f7c899b45b2ab57394d67be1, type: 3}
+--- !u!1001 &7389132658973885092
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5472012298522788062}
+    m_Modifications:
+    - target: {fileID: 3373521268263081237, guid: 91279c34630d6334c9f94237433aa48e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.973461
+      objectReference: {fileID: 0}
+    - target: {fileID: 3373521268263081237, guid: 91279c34630d6334c9f94237433aa48e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.40000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 3373521268263081237, guid: 91279c34630d6334c9f94237433aa48e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.608823
+      objectReference: {fileID: 0}
+    - target: {fileID: 3373521268263081237, guid: 91279c34630d6334c9f94237433aa48e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 3373521268263081237, guid: 91279c34630d6334c9f94237433aa48e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 3373521268263081237, guid: 91279c34630d6334c9f94237433aa48e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 3373521268263081237, guid: 91279c34630d6334c9f94237433aa48e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 3373521268263081237, guid: 91279c34630d6334c9f94237433aa48e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3373521268263081237, guid: 91279c34630d6334c9f94237433aa48e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3373521268263081237, guid: 91279c34630d6334c9f94237433aa48e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6514966422643453612, guid: 91279c34630d6334c9f94237433aa48e,
+        type: 3}
+      propertyPath: m_Name
+      value: Hatchback wheel front right
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 91279c34630d6334c9f94237433aa48e, type: 3}
+--- !u!1001 &9170065011425252772
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5472012298522788062}
+    m_Modifications:
+    - target: {fileID: 3869290609331466878, guid: f66c100ef8723164498a3b105afc9428,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.973461
+      objectReference: {fileID: 0}
+    - target: {fileID: 3869290609331466878, guid: f66c100ef8723164498a3b105afc9428,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.40000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 3869290609331466878, guid: f66c100ef8723164498a3b105afc9428,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8.391175
+      objectReference: {fileID: 0}
+    - target: {fileID: 3869290609331466878, guid: f66c100ef8723164498a3b105afc9428,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 3869290609331466878, guid: f66c100ef8723164498a3b105afc9428,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 3869290609331466878, guid: f66c100ef8723164498a3b105afc9428,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 3869290609331466878, guid: f66c100ef8723164498a3b105afc9428,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 3869290609331466878, guid: f66c100ef8723164498a3b105afc9428,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3869290609331466878, guid: f66c100ef8723164498a3b105afc9428,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3869290609331466878, guid: f66c100ef8723164498a3b105afc9428,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8620342104131702263, guid: f66c100ef8723164498a3b105afc9428,
+        type: 3}
+      propertyPath: m_Name
+      value: Hatchback wheel rear right
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f66c100ef8723164498a3b105afc9428, type: 3}

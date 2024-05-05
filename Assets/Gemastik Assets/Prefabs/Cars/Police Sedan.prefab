@@ -1,0 +1,751 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1502771992508170060
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 7691788229266188937, guid: 17026f054647f254f944f71bb5287897,
+    type: 3}
+  m_PrefabInstance: {fileID: 7289664862423664455}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4532126509387653415}
+  - component: {fileID: 1075955774923877917}
+  - component: {fileID: 749613920909035025}
+  m_Layer: 0
+  m_Name: Police Sedan wheel rear left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4532126509387653415
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 5105900862401665536, guid: 17026f054647f254f944f71bb5287897,
+    type: 3}
+  m_PrefabInstance: {fileID: 7289664862423664455}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1502771992508170060}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.010265398, y: 0.016088257, z: -0.0019999922}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2407831871972743856}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &1075955774923877917
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2786388989610032443, guid: 17026f054647f254f944f71bb5287897,
+    type: 3}
+  m_PrefabInstance: {fileID: 7289664862423664455}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1502771992508170060}
+  m_Mesh: {fileID: 3840638871270518117, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &749613920909035025
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8317823085104726961, guid: 17026f054647f254f944f71bb5287897,
+    type: 3}
+  m_PrefabInstance: {fileID: 7289664862423664455}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1502771992508170060}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &4829305902152466314
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2407831871972743856}
+  m_Layer: 0
+  m_Name: Police Sedan
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2407831871972743856
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4829305902152466314}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071069, y: -0.000000030908627, z: 0.000000030908616, w: 0.70710665}
+  m_LocalPosition: {x: 14, y: 0.6, z: 2}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8847265522014081516}
+  - {fileID: 7661283406375673817}
+  - {fileID: 7014240501160538689}
+  - {fileID: 4532126509387653415}
+  - {fileID: 1492392027663912493}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5218816847233484691
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4244378008997640233, guid: ab7b3f46d00bd3f44a8eba7334cb8a8f,
+    type: 3}
+  m_PrefabInstance: {fileID: 4537326944862606575}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1492392027663912493}
+  - component: {fileID: 5618595570062447956}
+  - component: {fileID: 2765241638396221273}
+  m_Layer: 0
+  m_Name: Police Sedan wheel rear right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1492392027663912493
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 7440514674281490578, guid: ab7b3f46d00bd3f44a8eba7334cb8a8f,
+    type: 3}
+  m_PrefabInstance: {fileID: 4537326944862606575}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5218816847233484691}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0102653885, y: 0.016088257, z: -0.0019999945}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2407831871972743856}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &5618595570062447956
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4088940801873947440, guid: ab7b3f46d00bd3f44a8eba7334cb8a8f,
+    type: 3}
+  m_PrefabInstance: {fileID: 4537326944862606575}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5218816847233484691}
+  m_Mesh: {fileID: 9104165444520343566, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &2765241638396221273
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 3808972786450983712, guid: ab7b3f46d00bd3f44a8eba7334cb8a8f,
+    type: 3}
+  m_PrefabInstance: {fileID: 4537326944862606575}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5218816847233484691}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &7314553075189740177
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8847265522014081516}
+  - component: {fileID: 6943680005709395661}
+  - component: {fileID: 5341802590669961022}
+  m_Layer: 0
+  m_Name: Police Sedan
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8847265522014081516
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7314553075189740177}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2407831871972743856}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &6943680005709395661
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7314553075189740177}
+  m_Mesh: {fileID: -5303927718504761762, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &5341802590669961022
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7314553075189740177}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -492108395051690996, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 5029210610703319244, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 5017629054345748095, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 8884940142553567970, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 3055996272150503839, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -535131839395333617, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 6460003756862070446, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &7326199887587447466
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 198126074927908696, guid: 9813d097e56df3749995b2e562d754c5,
+    type: 3}
+  m_PrefabInstance: {fileID: 5783697526859930154}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7014240501160538689}
+  - component: {fileID: 1934975104475370792}
+  - component: {fileID: 6540476062202447792}
+  m_Layer: 0
+  m_Name: Police Sedan wheel front right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7014240501160538689
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 723408599449302515, guid: 9813d097e56df3749995b2e562d754c5,
+    type: 3}
+  m_PrefabInstance: {fileID: 5783697526859930154}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7326199887587447466}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0102653885, y: -0.016088234, z: -0.0020000064}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2407831871972743856}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &1934975104475370792
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2915463729569199169, guid: 9813d097e56df3749995b2e562d754c5,
+    type: 3}
+  m_PrefabInstance: {fileID: 5783697526859930154}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7326199887587447466}
+  m_Mesh: {fileID: 5571514111194073172, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &6540476062202447792
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 7949753568000593428, guid: 9813d097e56df3749995b2e562d754c5,
+    type: 3}
+  m_PrefabInstance: {fileID: 5783697526859930154}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7326199887587447466}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &8232127357064808611
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 9109130986150085988, guid: 20d700f2736851c47bde8746b7a7c48d,
+    type: 3}
+  m_PrefabInstance: {fileID: 2000659084286155752}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7661283406375673817}
+  - component: {fileID: 4108139525380392498}
+  - component: {fileID: 1361710867578659395}
+  m_Layer: 0
+  m_Name: Police Sedan wheel front left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7661283406375673817
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6989161020915391784, guid: 20d700f2736851c47bde8746b7a7c48d,
+    type: 3}
+  m_PrefabInstance: {fileID: 2000659084286155752}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8232127357064808611}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.010265398, y: -0.016088234, z: -0.002000004}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2407831871972743856}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &4108139525380392498
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 3962240308138903247, guid: 20d700f2736851c47bde8746b7a7c48d,
+    type: 3}
+  m_PrefabInstance: {fileID: 2000659084286155752}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8232127357064808611}
+  m_Mesh: {fileID: 5524705391315062873, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &1361710867578659395
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 5967466506010998276, guid: 20d700f2736851c47bde8746b7a7c48d,
+    type: 3}
+  m_PrefabInstance: {fileID: 2000659084286155752}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8232127357064808611}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1001 &2000659084286155752
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2407831871972743856}
+    m_Modifications:
+    - target: {fileID: 6989161020915391784, guid: 20d700f2736851c47bde8746b7a7c48d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.97346
+      objectReference: {fileID: 0}
+    - target: {fileID: 6989161020915391784, guid: 20d700f2736851c47bde8746b7a7c48d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.40000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 6989161020915391784, guid: 20d700f2736851c47bde8746b7a7c48d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.6088238
+      objectReference: {fileID: 0}
+    - target: {fileID: 6989161020915391784, guid: 20d700f2736851c47bde8746b7a7c48d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 6989161020915391784, guid: 20d700f2736851c47bde8746b7a7c48d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 6989161020915391784, guid: 20d700f2736851c47bde8746b7a7c48d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 6989161020915391784, guid: 20d700f2736851c47bde8746b7a7c48d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 6989161020915391784, guid: 20d700f2736851c47bde8746b7a7c48d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6989161020915391784, guid: 20d700f2736851c47bde8746b7a7c48d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6989161020915391784, guid: 20d700f2736851c47bde8746b7a7c48d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109130986150085988, guid: 20d700f2736851c47bde8746b7a7c48d,
+        type: 3}
+      propertyPath: m_Name
+      value: Police Sedan wheel front left
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 20d700f2736851c47bde8746b7a7c48d, type: 3}
+--- !u!1001 &4537326944862606575
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2407831871972743856}
+    m_Modifications:
+    - target: {fileID: 4244378008997640233, guid: ab7b3f46d00bd3f44a8eba7334cb8a8f,
+        type: 3}
+      propertyPath: m_Name
+      value: Police Sedan wheel rear right
+      objectReference: {fileID: 0}
+    - target: {fileID: 7440514674281490578, guid: ab7b3f46d00bd3f44a8eba7334cb8a8f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 15.026539
+      objectReference: {fileID: 0}
+    - target: {fileID: 7440514674281490578, guid: ab7b3f46d00bd3f44a8eba7334cb8a8f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.40000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 7440514674281490578, guid: ab7b3f46d00bd3f44a8eba7334cb8a8f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.39117432
+      objectReference: {fileID: 0}
+    - target: {fileID: 7440514674281490578, guid: ab7b3f46d00bd3f44a8eba7334cb8a8f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 7440514674281490578, guid: ab7b3f46d00bd3f44a8eba7334cb8a8f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 7440514674281490578, guid: ab7b3f46d00bd3f44a8eba7334cb8a8f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 7440514674281490578, guid: ab7b3f46d00bd3f44a8eba7334cb8a8f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 7440514674281490578, guid: ab7b3f46d00bd3f44a8eba7334cb8a8f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7440514674281490578, guid: ab7b3f46d00bd3f44a8eba7334cb8a8f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7440514674281490578, guid: ab7b3f46d00bd3f44a8eba7334cb8a8f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ab7b3f46d00bd3f44a8eba7334cb8a8f, type: 3}
+--- !u!1001 &5783697526859930154
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2407831871972743856}
+    m_Modifications:
+    - target: {fileID: 198126074927908696, guid: 9813d097e56df3749995b2e562d754c5,
+        type: 3}
+      propertyPath: m_Name
+      value: Police Sedan wheel front right
+      objectReference: {fileID: 0}
+    - target: {fileID: 723408599449302515, guid: 9813d097e56df3749995b2e562d754c5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 15.026539
+      objectReference: {fileID: 0}
+    - target: {fileID: 723408599449302515, guid: 9813d097e56df3749995b2e562d754c5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.40000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 723408599449302515, guid: 9813d097e56df3749995b2e562d754c5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.6088238
+      objectReference: {fileID: 0}
+    - target: {fileID: 723408599449302515, guid: 9813d097e56df3749995b2e562d754c5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 723408599449302515, guid: 9813d097e56df3749995b2e562d754c5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 723408599449302515, guid: 9813d097e56df3749995b2e562d754c5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 723408599449302515, guid: 9813d097e56df3749995b2e562d754c5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 723408599449302515, guid: 9813d097e56df3749995b2e562d754c5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 723408599449302515, guid: 9813d097e56df3749995b2e562d754c5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 723408599449302515, guid: 9813d097e56df3749995b2e562d754c5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9813d097e56df3749995b2e562d754c5, type: 3}
+--- !u!1001 &7289664862423664455
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2407831871972743856}
+    m_Modifications:
+    - target: {fileID: 5105900862401665536, guid: 17026f054647f254f944f71bb5287897,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.97346
+      objectReference: {fileID: 0}
+    - target: {fileID: 5105900862401665536, guid: 17026f054647f254f944f71bb5287897,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.40000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 5105900862401665536, guid: 17026f054647f254f944f71bb5287897,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.39117432
+      objectReference: {fileID: 0}
+    - target: {fileID: 5105900862401665536, guid: 17026f054647f254f944f71bb5287897,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 5105900862401665536, guid: 17026f054647f254f944f71bb5287897,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 5105900862401665536, guid: 17026f054647f254f944f71bb5287897,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 5105900862401665536, guid: 17026f054647f254f944f71bb5287897,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 5105900862401665536, guid: 17026f054647f254f944f71bb5287897,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5105900862401665536, guid: 17026f054647f254f944f71bb5287897,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5105900862401665536, guid: 17026f054647f254f944f71bb5287897,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7691788229266188937, guid: 17026f054647f254f944f71bb5287897,
+        type: 3}
+      propertyPath: m_Name
+      value: Police Sedan wheel rear left
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 17026f054647f254f944f71bb5287897, type: 3}

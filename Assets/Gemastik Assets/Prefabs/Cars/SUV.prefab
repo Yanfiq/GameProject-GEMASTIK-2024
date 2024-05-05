@@ -1,0 +1,750 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3250413000669430513
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 516197404333547148, guid: 70de182bae2ffdb408b71b3735603491,
+    type: 3}
+  m_PrefabInstance: {fileID: 338693822104346031}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4458382620213613557}
+  - component: {fileID: 7870094982151604204}
+  - component: {fileID: 610704935830390310}
+  m_Layer: 0
+  m_Name: SUV wheel front left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4458382620213613557
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 5291450334501394401, guid: 70de182bae2ffdb408b71b3735603491,
+    type: 3}
+  m_PrefabInstance: {fileID: 338693822104346031}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3250413000669430513}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.0102653885, y: -0.016088225, z: -0.002000004}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8819764235610465032}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &7870094982151604204
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8522008344941826762, guid: 70de182bae2ffdb408b71b3735603491,
+    type: 3}
+  m_PrefabInstance: {fileID: 338693822104346031}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3250413000669430513}
+  m_Mesh: {fileID: 2851641410063979059, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &610704935830390310
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2081281220681847452, guid: 70de182bae2ffdb408b71b3735603491,
+    type: 3}
+  m_PrefabInstance: {fileID: 338693822104346031}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3250413000669430513}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &6061162877289815462
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8819764235610465032}
+  m_Layer: 0
+  m_Name: SUV
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8819764235610465032
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6061162877289815462}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071069, y: -0.000000030908627, z: 0.000000030908616, w: 0.70710665}
+  m_LocalPosition: {x: -16, y: 0.6, z: 10}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 936531933405479328}
+  - {fileID: 4458382620213613557}
+  - {fileID: 3769183507108526711}
+  - {fileID: 6439133654631234738}
+  - {fileID: 3299324586826085723}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6576636828075334437
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1008511094375396892, guid: 7f38dedd591886e4db59bae165e5c1f5,
+    type: 3}
+  m_PrefabInstance: {fileID: 6298656266840165776}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3299324586826085723}
+  - component: {fileID: 5800942729038940203}
+  - component: {fileID: 511627632328939211}
+  m_Layer: 0
+  m_Name: SUV wheel rear right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3299324586826085723
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2139227872809359780, guid: 7f38dedd591886e4db59bae165e5c1f5,
+    type: 3}
+  m_PrefabInstance: {fileID: 6298656266840165776}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6576636828075334437}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.010265398, y: 0.016088247, z: -0.0019999945}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8819764235610465032}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &5800942729038940203
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8572010752934266697, guid: 7f38dedd591886e4db59bae165e5c1f5,
+    type: 3}
+  m_PrefabInstance: {fileID: 6298656266840165776}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6576636828075334437}
+  m_Mesh: {fileID: -1087117531497977918, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &511627632328939211
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2186414111068826075, guid: 7f38dedd591886e4db59bae165e5c1f5,
+    type: 3}
+  m_PrefabInstance: {fileID: 6298656266840165776}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6576636828075334437}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &7029855321616888494
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 3112164618665526427, guid: 964d18bc736116a4ba57c79b22419f85,
+    type: 3}
+  m_PrefabInstance: {fileID: 5531707936673703005}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6439133654631234738}
+  - component: {fileID: 8654219602016559887}
+  - component: {fileID: 8692780018828160468}
+  m_Layer: 0
+  m_Name: SUV wheel rear left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6439133654631234738
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2451919776335837278, guid: 964d18bc736116a4ba57c79b22419f85,
+    type: 3}
+  m_PrefabInstance: {fileID: 5531707936673703005}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7029855321616888494}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.0102653885, y: 0.016088247, z: -0.0019999922}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8819764235610465032}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &8654219602016559887
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1790161973391920265, guid: 964d18bc736116a4ba57c79b22419f85,
+    type: 3}
+  m_PrefabInstance: {fileID: 5531707936673703005}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7029855321616888494}
+  m_Mesh: {fileID: -5458512743658619068, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &8692780018828160468
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1667310894084960926, guid: 964d18bc736116a4ba57c79b22419f85,
+    type: 3}
+  m_PrefabInstance: {fileID: 5531707936673703005}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7029855321616888494}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &7131619771855217265
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 936531933405479328}
+  - component: {fileID: 9042105560221429869}
+  - component: {fileID: 7442639774535540921}
+  m_Layer: 0
+  m_Name: SUV
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &936531933405479328
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7131619771855217265}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8819764235610465032}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &9042105560221429869
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7131619771855217265}
+  m_Mesh: {fileID: -3076010999183910563, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &7442639774535540921
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7131619771855217265}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2259305903671786531, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 8884940142553567970, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -492108395051690996, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 3055996272150503839, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 5029210610703319244, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -535131839395333617, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &7360723958183060543
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2953265599377888987, guid: 3270d760a2ec1fa4aba684da0efee3ec,
+    type: 3}
+  m_PrefabInstance: {fileID: 4486138896621032414}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3769183507108526711}
+  - component: {fileID: 5789813011226496746}
+  - component: {fileID: 5203986758247168080}
+  m_Layer: 0
+  m_Name: SUV wheel front right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3769183507108526711
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2316725329187917909, guid: 3270d760a2ec1fa4aba684da0efee3ec,
+    type: 3}
+  m_PrefabInstance: {fileID: 4486138896621032414}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7360723958183060543}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.010265398, y: -0.016088225, z: -0.0020000064}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8819764235610465032}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &5789813011226496746
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6379962916605841852, guid: 3270d760a2ec1fa4aba684da0efee3ec,
+    type: 3}
+  m_PrefabInstance: {fileID: 4486138896621032414}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7360723958183060543}
+  m_Mesh: {fileID: -3709349562867010836, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &5203986758247168080
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 5263677425435361334, guid: 3270d760a2ec1fa4aba684da0efee3ec,
+    type: 3}
+  m_PrefabInstance: {fileID: 4486138896621032414}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7360723958183060543}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1001 &338693822104346031
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8819764235610465032}
+    m_Modifications:
+    - target: {fileID: 516197404333547148, guid: 70de182bae2ffdb408b71b3735603491,
+        type: 3}
+      propertyPath: m_Name
+      value: SUV wheel front left
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291450334501394401, guid: 70de182bae2ffdb408b71b3735603491,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -17.026539
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291450334501394401, guid: 70de182bae2ffdb408b71b3735603491,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.40000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291450334501394401, guid: 70de182bae2ffdb408b71b3735603491,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.608823
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291450334501394401, guid: 70de182bae2ffdb408b71b3735603491,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291450334501394401, guid: 70de182bae2ffdb408b71b3735603491,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291450334501394401, guid: 70de182bae2ffdb408b71b3735603491,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291450334501394401, guid: 70de182bae2ffdb408b71b3735603491,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291450334501394401, guid: 70de182bae2ffdb408b71b3735603491,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291450334501394401, guid: 70de182bae2ffdb408b71b3735603491,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291450334501394401, guid: 70de182bae2ffdb408b71b3735603491,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 70de182bae2ffdb408b71b3735603491, type: 3}
+--- !u!1001 &4486138896621032414
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8819764235610465032}
+    m_Modifications:
+    - target: {fileID: 2316725329187917909, guid: 3270d760a2ec1fa4aba684da0efee3ec,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -14.97346
+      objectReference: {fileID: 0}
+    - target: {fileID: 2316725329187917909, guid: 3270d760a2ec1fa4aba684da0efee3ec,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.40000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 2316725329187917909, guid: 3270d760a2ec1fa4aba684da0efee3ec,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.608823
+      objectReference: {fileID: 0}
+    - target: {fileID: 2316725329187917909, guid: 3270d760a2ec1fa4aba684da0efee3ec,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 2316725329187917909, guid: 3270d760a2ec1fa4aba684da0efee3ec,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 2316725329187917909, guid: 3270d760a2ec1fa4aba684da0efee3ec,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 2316725329187917909, guid: 3270d760a2ec1fa4aba684da0efee3ec,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 2316725329187917909, guid: 3270d760a2ec1fa4aba684da0efee3ec,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2316725329187917909, guid: 3270d760a2ec1fa4aba684da0efee3ec,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2316725329187917909, guid: 3270d760a2ec1fa4aba684da0efee3ec,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2953265599377888987, guid: 3270d760a2ec1fa4aba684da0efee3ec,
+        type: 3}
+      propertyPath: m_Name
+      value: SUV wheel front right
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3270d760a2ec1fa4aba684da0efee3ec, type: 3}
+--- !u!1001 &5531707936673703005
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8819764235610465032}
+    m_Modifications:
+    - target: {fileID: 2451919776335837278, guid: 964d18bc736116a4ba57c79b22419f85,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -17.026539
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451919776335837278, guid: 964d18bc736116a4ba57c79b22419f85,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.40000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451919776335837278, guid: 964d18bc736116a4ba57c79b22419f85,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8.391175
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451919776335837278, guid: 964d18bc736116a4ba57c79b22419f85,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451919776335837278, guid: 964d18bc736116a4ba57c79b22419f85,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451919776335837278, guid: 964d18bc736116a4ba57c79b22419f85,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451919776335837278, guid: 964d18bc736116a4ba57c79b22419f85,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451919776335837278, guid: 964d18bc736116a4ba57c79b22419f85,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451919776335837278, guid: 964d18bc736116a4ba57c79b22419f85,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2451919776335837278, guid: 964d18bc736116a4ba57c79b22419f85,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3112164618665526427, guid: 964d18bc736116a4ba57c79b22419f85,
+        type: 3}
+      propertyPath: m_Name
+      value: SUV wheel rear left
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 964d18bc736116a4ba57c79b22419f85, type: 3}
+--- !u!1001 &6298656266840165776
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8819764235610465032}
+    m_Modifications:
+    - target: {fileID: 1008511094375396892, guid: 7f38dedd591886e4db59bae165e5c1f5,
+        type: 3}
+      propertyPath: m_Name
+      value: SUV wheel rear right
+      objectReference: {fileID: 0}
+    - target: {fileID: 2139227872809359780, guid: 7f38dedd591886e4db59bae165e5c1f5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -14.97346
+      objectReference: {fileID: 0}
+    - target: {fileID: 2139227872809359780, guid: 7f38dedd591886e4db59bae165e5c1f5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.40000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 2139227872809359780, guid: 7f38dedd591886e4db59bae165e5c1f5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8.391175
+      objectReference: {fileID: 0}
+    - target: {fileID: 2139227872809359780, guid: 7f38dedd591886e4db59bae165e5c1f5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 2139227872809359780, guid: 7f38dedd591886e4db59bae165e5c1f5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 2139227872809359780, guid: 7f38dedd591886e4db59bae165e5c1f5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 2139227872809359780, guid: 7f38dedd591886e4db59bae165e5c1f5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 2139227872809359780, guid: 7f38dedd591886e4db59bae165e5c1f5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2139227872809359780, guid: 7f38dedd591886e4db59bae165e5c1f5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2139227872809359780, guid: 7f38dedd591886e4db59bae165e5c1f5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7f38dedd591886e4db59bae165e5c1f5, type: 3}

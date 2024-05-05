@@ -1,0 +1,2007 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &112129516999710347
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4170177087316176367, guid: a0e8970c51e0e944382b91ab197dd377,
+    type: 3}
+  m_PrefabInstance: {fileID: 475368978706269156}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5472321877412155242}
+  - component: {fileID: 888531170226295723}
+  - component: {fileID: 196895433404938040}
+  m_Layer: 0
+  m_Name: Truck with trailer wheel rear right 3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5472321877412155242
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6981492138981419815, guid: a0e8970c51e0e944382b91ab197dd377,
+    type: 3}
+  m_PrefabInstance: {fileID: 475368978706269156}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112129516999710347}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.012883839, y: 0.08066365, z: -0.0020013188}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2114215245959681033}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &888531170226295723
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2358195552654468337, guid: a0e8970c51e0e944382b91ab197dd377,
+    type: 3}
+  m_PrefabInstance: {fileID: 475368978706269156}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112129516999710347}
+  m_Mesh: {fileID: -1147119946016672825, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &196895433404938040
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1948622056417515386, guid: a0e8970c51e0e944382b91ab197dd377,
+    type: 3}
+  m_PrefabInstance: {fileID: 475368978706269156}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112129516999710347}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &240364215301748445
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 7449194043985942411, guid: 83b7bcdaa52c9294193bf4ce8f9b4dd8,
+    type: 3}
+  m_PrefabInstance: {fileID: 4319020859628500638}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5896474392102293752}
+  - component: {fileID: 3208580735761317950}
+  - component: {fileID: 2193416004217364762}
+  m_Layer: 0
+  m_Name: Truck with trailer wheel rear left 5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5896474392102293752
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 964477736634433376, guid: 83b7bcdaa52c9294193bf4ce8f9b4dd8,
+    type: 3}
+  m_PrefabInstance: {fileID: 4319020859628500638}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 240364215301748445}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.012883835, y: 0.10356364, z: -0.0020013142}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2114215245959681033}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &3208580735761317950
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6056021647915993631, guid: 83b7bcdaa52c9294193bf4ce8f9b4dd8,
+    type: 3}
+  m_PrefabInstance: {fileID: 4319020859628500638}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 240364215301748445}
+  m_Mesh: {fileID: 103066341703390875, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &2193416004217364762
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6736004449360808363, guid: 83b7bcdaa52c9294193bf4ce8f9b4dd8,
+    type: 3}
+  m_PrefabInstance: {fileID: 4319020859628500638}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 240364215301748445}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &415455370482366467
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 580649280672396938, guid: a4d8656333479e2419a39964a19b0d39,
+    type: 3}
+  m_PrefabInstance: {fileID: 1329553747348650556}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5434322472498966457}
+  - component: {fileID: 149545252316384252}
+  - component: {fileID: 5036359918856246603}
+  m_Layer: 0
+  m_Name: Truck with trailer wheel rear right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5434322472498966457
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 5291451659792026535, guid: a4d8656333479e2419a39964a19b0d39,
+    type: 3}
+  m_PrefabInstance: {fileID: 1329553747348650556}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 415455370482366467}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.012883839, y: 0.012063675, z: -0.0020013463}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2114215245959681033}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &149545252316384252
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 3455525070935587564, guid: a4d8656333479e2419a39964a19b0d39,
+    type: 3}
+  m_PrefabInstance: {fileID: 1329553747348650556}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 415455370482366467}
+  m_Mesh: {fileID: -3891089494418834297, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &5036359918856246603
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6689528365091033492, guid: a4d8656333479e2419a39964a19b0d39,
+    type: 3}
+  m_PrefabInstance: {fileID: 1329553747348650556}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 415455370482366467}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &913917337886883192
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 9077693011283469736, guid: 28bf6a194c373b849818319ee9d17476,
+    type: 3}
+  m_PrefabInstance: {fileID: 9097245634399157675}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7395081001613328431}
+  - component: {fileID: 118646837519450970}
+  - component: {fileID: 7928331334326621376}
+  m_Layer: 0
+  m_Name: Truck with trailer wheel rear right 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7395081001613328431
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6706584674867125512, guid: 28bf6a194c373b849818319ee9d17476,
+    type: 3}
+  m_PrefabInstance: {fileID: 9097245634399157675}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 913917337886883192}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.012883839, y: 0.023463666, z: -0.0020013403}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2114215245959681033}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &118646837519450970
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4562455841861930637, guid: 28bf6a194c373b849818319ee9d17476,
+    type: 3}
+  m_PrefabInstance: {fileID: 9097245634399157675}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 913917337886883192}
+  m_Mesh: {fileID: -7969883171368399914, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &7928331334326621376
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 348130972134367753, guid: 28bf6a194c373b849818319ee9d17476,
+    type: 3}
+  m_PrefabInstance: {fileID: 9097245634399157675}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 913917337886883192}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &1550594901594703425
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2235850817843178484, guid: 67455786d8d8b154d8e54e6c861f0d59,
+    type: 3}
+  m_PrefabInstance: {fileID: 4324007927268539427}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6493392354573657966}
+  - component: {fileID: 6494385914202489631}
+  - component: {fileID: 4122729920985072538}
+  m_Layer: 0
+  m_Name: Truck with trailer wheel front right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6493392354573657966
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 7093808608528637799, guid: 67455786d8d8b154d8e54e6c861f0d59,
+    type: 3}
+  m_PrefabInstance: {fileID: 4324007927268539427}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1550594901594703425}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.012883839, y: -0.01606365, z: -0.002001357}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2114215245959681033}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &6494385914202489631
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 7125888124257155677, guid: 67455786d8d8b154d8e54e6c861f0d59,
+    type: 3}
+  m_PrefabInstance: {fileID: 4324007927268539427}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1550594901594703425}
+  m_Mesh: {fileID: -6229850875903460419, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &4122729920985072538
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 7182526654584733893, guid: 67455786d8d8b154d8e54e6c861f0d59,
+    type: 3}
+  m_PrefabInstance: {fileID: 4324007927268539427}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1550594901594703425}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &4768634066626321887
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6711743445917192818, guid: 8399659268b44c4489ee5fc04d1fe793,
+    type: 3}
+  m_PrefabInstance: {fileID: 7935505587329036226}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1087616147948686413}
+  - component: {fileID: 7515818555168005524}
+  - component: {fileID: 8780891915620209278}
+  m_Layer: 0
+  m_Name: Truck with trailer wheel front left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1087616147948686413
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6395529530733524659, guid: 8399659268b44c4489ee5fc04d1fe793,
+    type: 3}
+  m_PrefabInstance: {fileID: 7935505587329036226}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4768634066626321887}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.012883835, y: -0.01606365, z: -0.0020013547}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2114215245959681033}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &7515818555168005524
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6882161184354955362, guid: 8399659268b44c4489ee5fc04d1fe793,
+    type: 3}
+  m_PrefabInstance: {fileID: 7935505587329036226}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4768634066626321887}
+  m_Mesh: {fileID: -5096229076863176754, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &8780891915620209278
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1947505439999611356, guid: 8399659268b44c4489ee5fc04d1fe793,
+    type: 3}
+  m_PrefabInstance: {fileID: 7935505587329036226}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4768634066626321887}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &4774727898751734037
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8782976022833748921, guid: 7384a4a7f8f48294683ae69a25ed9a52,
+    type: 3}
+  m_PrefabInstance: {fileID: 3798849423157191110}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9083330395071256790}
+  - component: {fileID: 4381526820143290328}
+  - component: {fileID: 3835237851553551192}
+  m_Layer: 0
+  m_Name: Truck with trailer wheel rear left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9083330395071256790
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6670866536317561032, guid: 7384a4a7f8f48294683ae69a25ed9a52,
+    type: 3}
+  m_PrefabInstance: {fileID: 3798849423157191110}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4774727898751734037}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.012883835, y: 0.012063675, z: -0.002001344}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2114215245959681033}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &4381526820143290328
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 220483834846169514, guid: 7384a4a7f8f48294683ae69a25ed9a52,
+    type: 3}
+  m_PrefabInstance: {fileID: 3798849423157191110}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4774727898751734037}
+  m_Mesh: {fileID: 5907447148447859096, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &3835237851553551192
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8035745811157563629, guid: 7384a4a7f8f48294683ae69a25ed9a52,
+    type: 3}
+  m_PrefabInstance: {fileID: 3798849423157191110}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4774727898751734037}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &4936174221167168786
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2946179244519984584, guid: 00907dc9448cafd489dd0f05eb9f46a7,
+    type: 3}
+  m_PrefabInstance: {fileID: 7312525091199715131}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7194706394374297064}
+  - component: {fileID: 8190351588249243354}
+  - component: {fileID: 3243566576887931072}
+  m_Layer: 0
+  m_Name: Truck with trailer wheel rear left 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7194706394374297064
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6850556201659994089, guid: 00907dc9448cafd489dd0f05eb9f46a7,
+    type: 3}
+  m_PrefabInstance: {fileID: 7312525091199715131}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4936174221167168786}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.012883835, y: 0.023463666, z: -0.0020013403}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2114215245959681033}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &8190351588249243354
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 7990830631663120966, guid: 00907dc9448cafd489dd0f05eb9f46a7,
+    type: 3}
+  m_PrefabInstance: {fileID: 7312525091199715131}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4936174221167168786}
+  m_Mesh: {fileID: 2696182114043462417, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &3243566576887931072
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 238187055924102682, guid: 00907dc9448cafd489dd0f05eb9f46a7,
+    type: 3}
+  m_PrefabInstance: {fileID: 7312525091199715131}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4936174221167168786}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &5210756040685536277
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1870927473625441833, guid: bac5cfd9653ab0c4dab26186e6a58ae2,
+    type: 3}
+  m_PrefabInstance: {fileID: 3311803883547576940}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2323487051841798596}
+  - component: {fileID: 523142330988369724}
+  - component: {fileID: 8077948392981512869}
+  m_Layer: 0
+  m_Name: Truck with trailer wheel rear right 5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2323487051841798596
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6814855254714024040, guid: bac5cfd9653ab0c4dab26186e6a58ae2,
+    type: 3}
+  m_PrefabInstance: {fileID: 3311803883547576940}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5210756040685536277}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.012883839, y: 0.10356364, z: -0.0020013142}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2114215245959681033}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &523142330988369724
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8341281464101964019, guid: bac5cfd9653ab0c4dab26186e6a58ae2,
+    type: 3}
+  m_PrefabInstance: {fileID: 3311803883547576940}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5210756040685536277}
+  m_Mesh: {fileID: 7929198977502941338, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &8077948392981512869
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 7554939445222324310, guid: bac5cfd9653ab0c4dab26186e6a58ae2,
+    type: 3}
+  m_PrefabInstance: {fileID: 3311803883547576940}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5210756040685536277}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &5513713109056028292
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2114215245959681033}
+  m_Layer: 0
+  m_Name: Truck With Trailer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2114215245959681033
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5513713109056028292}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071069, y: -0.000000030908627, z: 0.000000030908616, w: 0.70710665}
+  m_LocalPosition: {x: -8, y: 0.6, z: -6.799999}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5389491633033560921}
+  - {fileID: 1087616147948686413}
+  - {fileID: 6493392354573657966}
+  - {fileID: 9083330395071256790}
+  - {fileID: 7194706394374297064}
+  - {fileID: 8035267969851102901}
+  - {fileID: 5936128123499275335}
+  - {fileID: 5896474392102293752}
+  - {fileID: 5434322472498966457}
+  - {fileID: 7395081001613328431}
+  - {fileID: 5472321877412155242}
+  - {fileID: 6133728105612679706}
+  - {fileID: 2323487051841798596}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6093701734362812995
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 7074114514991103123, guid: abac77c138a77bc46a6dea0db9b86b42,
+    type: 3}
+  m_PrefabInstance: {fileID: 5259140282022231145}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6133728105612679706}
+  - component: {fileID: 1042829284382946995}
+  - component: {fileID: 3440153578723713491}
+  m_Layer: 0
+  m_Name: Truck with trailer wheel rear right 4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6133728105612679706
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 3408491795154823614, guid: abac77c138a77bc46a6dea0db9b86b42,
+    type: 3}
+  m_PrefabInstance: {fileID: 5259140282022231145}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6093701734362812995}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.012883839, y: 0.092063665, z: -0.0020013237}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2114215245959681033}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &1042829284382946995
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1029121724807743423, guid: abac77c138a77bc46a6dea0db9b86b42,
+    type: 3}
+  m_PrefabInstance: {fileID: 5259140282022231145}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6093701734362812995}
+  m_Mesh: {fileID: -1296950548371305625, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &3440153578723713491
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 5903450042096452499, guid: abac77c138a77bc46a6dea0db9b86b42,
+    type: 3}
+  m_PrefabInstance: {fileID: 5259140282022231145}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6093701734362812995}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &7201154466259937266
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5389491633033560921}
+  - component: {fileID: 8973463880933869071}
+  - component: {fileID: 2564555466704606139}
+  m_Layer: 0
+  m_Name: Truck with trailer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5389491633033560921
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7201154466259937266}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2114215245959681033}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &8973463880933869071
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7201154466259937266}
+  m_Mesh: {fileID: -1542301554156758196, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &2564555466704606139
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7201154466259937266}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 7201272783081331943, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 8884940142553567970, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -535131839395333617, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -492108395051690996, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 5029210610703319244, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -189247314553575173, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 3055996272150503839, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &7521962673451477040
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8439688676049438103, guid: 2501fa0ee14786d498e8b68fd8dc3714,
+    type: 3}
+  m_PrefabInstance: {fileID: 9177161908182399534}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5936128123499275335}
+  - component: {fileID: 4429543434267806463}
+  - component: {fileID: 4387379873814217272}
+  m_Layer: 0
+  m_Name: Truck with trailer wheel rear left 4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5936128123499275335
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 7189846218653424406, guid: 2501fa0ee14786d498e8b68fd8dc3714,
+    type: 3}
+  m_PrefabInstance: {fileID: 9177161908182399534}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7521962673451477040}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.012883835, y: 0.092063665, z: -0.0020013237}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2114215245959681033}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &4429543434267806463
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6300644148301031932, guid: 2501fa0ee14786d498e8b68fd8dc3714,
+    type: 3}
+  m_PrefabInstance: {fileID: 9177161908182399534}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7521962673451477040}
+  m_Mesh: {fileID: 1480521128581480075, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &4387379873814217272
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2560083795083005096, guid: 2501fa0ee14786d498e8b68fd8dc3714,
+    type: 3}
+  m_PrefabInstance: {fileID: 9177161908182399534}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7521962673451477040}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &7665304473413231494
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 5378384733723197491, guid: 234ded3268b14574c9e3f0f0ec47ccf8,
+    type: 3}
+  m_PrefabInstance: {fileID: 5589312438985627433}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8035267969851102901}
+  - component: {fileID: 3822750053523204575}
+  - component: {fileID: 766317789633120039}
+  m_Layer: 0
+  m_Name: Truck with trailer wheel rear left 3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8035267969851102901
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 2032247185097515369, guid: 234ded3268b14574c9e3f0f0ec47ccf8,
+    type: 3}
+  m_PrefabInstance: {fileID: 5589312438985627433}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7665304473413231494}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.012883835, y: 0.08066365, z: -0.0020013188}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2114215245959681033}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &3822750053523204575
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 9192586770080678447, guid: 234ded3268b14574c9e3f0f0ec47ccf8,
+    type: 3}
+  m_PrefabInstance: {fileID: 5589312438985627433}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7665304473413231494}
+  m_Mesh: {fileID: -4597737734819409334, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &766317789633120039
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 458539292529572741, guid: 234ded3268b14574c9e3f0f0ec47ccf8,
+    type: 3}
+  m_PrefabInstance: {fileID: 5589312438985627433}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7665304473413231494}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1001 &475368978706269156
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2114215245959681033}
+    m_Modifications:
+    - target: {fileID: 4170177087316176367, guid: a0e8970c51e0e944382b91ab197dd377,
+        type: 3}
+      propertyPath: m_Name
+      value: Truck with trailer wheel rear right 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981492138981419815, guid: a0e8970c51e0e944382b91ab197dd377,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.711616
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981492138981419815, guid: a0e8970c51e0e944382b91ab197dd377,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39986503
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981492138981419815, guid: a0e8970c51e0e944382b91ab197dd377,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -14.866365
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981492138981419815, guid: a0e8970c51e0e944382b91ab197dd377,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981492138981419815, guid: a0e8970c51e0e944382b91ab197dd377,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981492138981419815, guid: a0e8970c51e0e944382b91ab197dd377,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981492138981419815, guid: a0e8970c51e0e944382b91ab197dd377,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981492138981419815, guid: a0e8970c51e0e944382b91ab197dd377,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981492138981419815, guid: a0e8970c51e0e944382b91ab197dd377,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6981492138981419815, guid: a0e8970c51e0e944382b91ab197dd377,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a0e8970c51e0e944382b91ab197dd377, type: 3}
+--- !u!1001 &1329553747348650556
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2114215245959681033}
+    m_Modifications:
+    - target: {fileID: 580649280672396938, guid: a4d8656333479e2419a39964a19b0d39,
+        type: 3}
+      propertyPath: m_Name
+      value: Truck with trailer wheel rear right
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291451659792026535, guid: a4d8656333479e2419a39964a19b0d39,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.711616
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291451659792026535, guid: a4d8656333479e2419a39964a19b0d39,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39986503
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291451659792026535, guid: a4d8656333479e2419a39964a19b0d39,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -8.006367
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291451659792026535, guid: a4d8656333479e2419a39964a19b0d39,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291451659792026535, guid: a4d8656333479e2419a39964a19b0d39,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291451659792026535, guid: a4d8656333479e2419a39964a19b0d39,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291451659792026535, guid: a4d8656333479e2419a39964a19b0d39,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291451659792026535, guid: a4d8656333479e2419a39964a19b0d39,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291451659792026535, guid: a4d8656333479e2419a39964a19b0d39,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5291451659792026535, guid: a4d8656333479e2419a39964a19b0d39,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a4d8656333479e2419a39964a19b0d39, type: 3}
+--- !u!1001 &3311803883547576940
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2114215245959681033}
+    m_Modifications:
+    - target: {fileID: 1870927473625441833, guid: bac5cfd9653ab0c4dab26186e6a58ae2,
+        type: 3}
+      propertyPath: m_Name
+      value: Truck with trailer wheel rear right 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6814855254714024040, guid: bac5cfd9653ab0c4dab26186e6a58ae2,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.711616
+      objectReference: {fileID: 0}
+    - target: {fileID: 6814855254714024040, guid: bac5cfd9653ab0c4dab26186e6a58ae2,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39986503
+      objectReference: {fileID: 0}
+    - target: {fileID: 6814855254714024040, guid: bac5cfd9653ab0c4dab26186e6a58ae2,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -17.156364
+      objectReference: {fileID: 0}
+    - target: {fileID: 6814855254714024040, guid: bac5cfd9653ab0c4dab26186e6a58ae2,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 6814855254714024040, guid: bac5cfd9653ab0c4dab26186e6a58ae2,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 6814855254714024040, guid: bac5cfd9653ab0c4dab26186e6a58ae2,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 6814855254714024040, guid: bac5cfd9653ab0c4dab26186e6a58ae2,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 6814855254714024040, guid: bac5cfd9653ab0c4dab26186e6a58ae2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6814855254714024040, guid: bac5cfd9653ab0c4dab26186e6a58ae2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6814855254714024040, guid: bac5cfd9653ab0c4dab26186e6a58ae2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bac5cfd9653ab0c4dab26186e6a58ae2, type: 3}
+--- !u!1001 &3798849423157191110
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2114215245959681033}
+    m_Modifications:
+    - target: {fileID: 6670866536317561032, guid: 7384a4a7f8f48294683ae69a25ed9a52,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9.2883835
+      objectReference: {fileID: 0}
+    - target: {fileID: 6670866536317561032, guid: 7384a4a7f8f48294683ae69a25ed9a52,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39986503
+      objectReference: {fileID: 0}
+    - target: {fileID: 6670866536317561032, guid: 7384a4a7f8f48294683ae69a25ed9a52,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -8.006367
+      objectReference: {fileID: 0}
+    - target: {fileID: 6670866536317561032, guid: 7384a4a7f8f48294683ae69a25ed9a52,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 6670866536317561032, guid: 7384a4a7f8f48294683ae69a25ed9a52,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 6670866536317561032, guid: 7384a4a7f8f48294683ae69a25ed9a52,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 6670866536317561032, guid: 7384a4a7f8f48294683ae69a25ed9a52,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 6670866536317561032, guid: 7384a4a7f8f48294683ae69a25ed9a52,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6670866536317561032, guid: 7384a4a7f8f48294683ae69a25ed9a52,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6670866536317561032, guid: 7384a4a7f8f48294683ae69a25ed9a52,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8782976022833748921, guid: 7384a4a7f8f48294683ae69a25ed9a52,
+        type: 3}
+      propertyPath: m_Name
+      value: Truck with trailer wheel rear left
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7384a4a7f8f48294683ae69a25ed9a52, type: 3}
+--- !u!1001 &4319020859628500638
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2114215245959681033}
+    m_Modifications:
+    - target: {fileID: 964477736634433376, guid: 83b7bcdaa52c9294193bf4ce8f9b4dd8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9.2883835
+      objectReference: {fileID: 0}
+    - target: {fileID: 964477736634433376, guid: 83b7bcdaa52c9294193bf4ce8f9b4dd8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39986503
+      objectReference: {fileID: 0}
+    - target: {fileID: 964477736634433376, guid: 83b7bcdaa52c9294193bf4ce8f9b4dd8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -17.156364
+      objectReference: {fileID: 0}
+    - target: {fileID: 964477736634433376, guid: 83b7bcdaa52c9294193bf4ce8f9b4dd8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 964477736634433376, guid: 83b7bcdaa52c9294193bf4ce8f9b4dd8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 964477736634433376, guid: 83b7bcdaa52c9294193bf4ce8f9b4dd8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 964477736634433376, guid: 83b7bcdaa52c9294193bf4ce8f9b4dd8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 964477736634433376, guid: 83b7bcdaa52c9294193bf4ce8f9b4dd8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 964477736634433376, guid: 83b7bcdaa52c9294193bf4ce8f9b4dd8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 964477736634433376, guid: 83b7bcdaa52c9294193bf4ce8f9b4dd8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7449194043985942411, guid: 83b7bcdaa52c9294193bf4ce8f9b4dd8,
+        type: 3}
+      propertyPath: m_Name
+      value: Truck with trailer wheel rear left 5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 83b7bcdaa52c9294193bf4ce8f9b4dd8, type: 3}
+--- !u!1001 &4324007927268539427
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2114215245959681033}
+    m_Modifications:
+    - target: {fileID: 2235850817843178484, guid: 67455786d8d8b154d8e54e6c861f0d59,
+        type: 3}
+      propertyPath: m_Name
+      value: Truck with trailer wheel front right
+      objectReference: {fileID: 0}
+    - target: {fileID: 7093808608528637799, guid: 67455786d8d8b154d8e54e6c861f0d59,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.711616
+      objectReference: {fileID: 0}
+    - target: {fileID: 7093808608528637799, guid: 67455786d8d8b154d8e54e6c861f0d59,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39986503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7093808608528637799, guid: 67455786d8d8b154d8e54e6c861f0d59,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.193634
+      objectReference: {fileID: 0}
+    - target: {fileID: 7093808608528637799, guid: 67455786d8d8b154d8e54e6c861f0d59,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 7093808608528637799, guid: 67455786d8d8b154d8e54e6c861f0d59,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 7093808608528637799, guid: 67455786d8d8b154d8e54e6c861f0d59,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 7093808608528637799, guid: 67455786d8d8b154d8e54e6c861f0d59,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 7093808608528637799, guid: 67455786d8d8b154d8e54e6c861f0d59,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7093808608528637799, guid: 67455786d8d8b154d8e54e6c861f0d59,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7093808608528637799, guid: 67455786d8d8b154d8e54e6c861f0d59,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 67455786d8d8b154d8e54e6c861f0d59, type: 3}
+--- !u!1001 &5259140282022231145
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2114215245959681033}
+    m_Modifications:
+    - target: {fileID: 3408491795154823614, guid: abac77c138a77bc46a6dea0db9b86b42,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.711616
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408491795154823614, guid: abac77c138a77bc46a6dea0db9b86b42,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39986503
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408491795154823614, guid: abac77c138a77bc46a6dea0db9b86b42,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -16.006367
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408491795154823614, guid: abac77c138a77bc46a6dea0db9b86b42,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408491795154823614, guid: abac77c138a77bc46a6dea0db9b86b42,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408491795154823614, guid: abac77c138a77bc46a6dea0db9b86b42,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408491795154823614, guid: abac77c138a77bc46a6dea0db9b86b42,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408491795154823614, guid: abac77c138a77bc46a6dea0db9b86b42,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408491795154823614, guid: abac77c138a77bc46a6dea0db9b86b42,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408491795154823614, guid: abac77c138a77bc46a6dea0db9b86b42,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7074114514991103123, guid: abac77c138a77bc46a6dea0db9b86b42,
+        type: 3}
+      propertyPath: m_Name
+      value: Truck with trailer wheel rear right 4
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: abac77c138a77bc46a6dea0db9b86b42, type: 3}
+--- !u!1001 &5589312438985627433
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2114215245959681033}
+    m_Modifications:
+    - target: {fileID: 2032247185097515369, guid: 234ded3268b14574c9e3f0f0ec47ccf8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9.2883835
+      objectReference: {fileID: 0}
+    - target: {fileID: 2032247185097515369, guid: 234ded3268b14574c9e3f0f0ec47ccf8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39986503
+      objectReference: {fileID: 0}
+    - target: {fileID: 2032247185097515369, guid: 234ded3268b14574c9e3f0f0ec47ccf8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -14.866365
+      objectReference: {fileID: 0}
+    - target: {fileID: 2032247185097515369, guid: 234ded3268b14574c9e3f0f0ec47ccf8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 2032247185097515369, guid: 234ded3268b14574c9e3f0f0ec47ccf8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 2032247185097515369, guid: 234ded3268b14574c9e3f0f0ec47ccf8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 2032247185097515369, guid: 234ded3268b14574c9e3f0f0ec47ccf8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 2032247185097515369, guid: 234ded3268b14574c9e3f0f0ec47ccf8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2032247185097515369, guid: 234ded3268b14574c9e3f0f0ec47ccf8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2032247185097515369, guid: 234ded3268b14574c9e3f0f0ec47ccf8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5378384733723197491, guid: 234ded3268b14574c9e3f0f0ec47ccf8,
+        type: 3}
+      propertyPath: m_Name
+      value: Truck with trailer wheel rear left 3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 234ded3268b14574c9e3f0f0ec47ccf8, type: 3}
+--- !u!1001 &7312525091199715131
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2114215245959681033}
+    m_Modifications:
+    - target: {fileID: 2946179244519984584, guid: 00907dc9448cafd489dd0f05eb9f46a7,
+        type: 3}
+      propertyPath: m_Name
+      value: Truck with trailer wheel rear left 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6850556201659994089, guid: 00907dc9448cafd489dd0f05eb9f46a7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9.2883835
+      objectReference: {fileID: 0}
+    - target: {fileID: 6850556201659994089, guid: 00907dc9448cafd489dd0f05eb9f46a7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39986503
+      objectReference: {fileID: 0}
+    - target: {fileID: 6850556201659994089, guid: 00907dc9448cafd489dd0f05eb9f46a7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -9.146366
+      objectReference: {fileID: 0}
+    - target: {fileID: 6850556201659994089, guid: 00907dc9448cafd489dd0f05eb9f46a7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 6850556201659994089, guid: 00907dc9448cafd489dd0f05eb9f46a7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 6850556201659994089, guid: 00907dc9448cafd489dd0f05eb9f46a7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 6850556201659994089, guid: 00907dc9448cafd489dd0f05eb9f46a7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 6850556201659994089, guid: 00907dc9448cafd489dd0f05eb9f46a7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6850556201659994089, guid: 00907dc9448cafd489dd0f05eb9f46a7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6850556201659994089, guid: 00907dc9448cafd489dd0f05eb9f46a7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 00907dc9448cafd489dd0f05eb9f46a7, type: 3}
+--- !u!1001 &7935505587329036226
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2114215245959681033}
+    m_Modifications:
+    - target: {fileID: 6395529530733524659, guid: 8399659268b44c4489ee5fc04d1fe793,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9.2883835
+      objectReference: {fileID: 0}
+    - target: {fileID: 6395529530733524659, guid: 8399659268b44c4489ee5fc04d1fe793,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39986503
+      objectReference: {fileID: 0}
+    - target: {fileID: 6395529530733524659, guid: 8399659268b44c4489ee5fc04d1fe793,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.193634
+      objectReference: {fileID: 0}
+    - target: {fileID: 6395529530733524659, guid: 8399659268b44c4489ee5fc04d1fe793,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 6395529530733524659, guid: 8399659268b44c4489ee5fc04d1fe793,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 6395529530733524659, guid: 8399659268b44c4489ee5fc04d1fe793,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 6395529530733524659, guid: 8399659268b44c4489ee5fc04d1fe793,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 6395529530733524659, guid: 8399659268b44c4489ee5fc04d1fe793,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6395529530733524659, guid: 8399659268b44c4489ee5fc04d1fe793,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6395529530733524659, guid: 8399659268b44c4489ee5fc04d1fe793,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6711743445917192818, guid: 8399659268b44c4489ee5fc04d1fe793,
+        type: 3}
+      propertyPath: m_Name
+      value: Truck with trailer wheel front left
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8399659268b44c4489ee5fc04d1fe793, type: 3}
+--- !u!1001 &9097245634399157675
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2114215245959681033}
+    m_Modifications:
+    - target: {fileID: 6706584674867125512, guid: 28bf6a194c373b849818319ee9d17476,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.711616
+      objectReference: {fileID: 0}
+    - target: {fileID: 6706584674867125512, guid: 28bf6a194c373b849818319ee9d17476,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39986503
+      objectReference: {fileID: 0}
+    - target: {fileID: 6706584674867125512, guid: 28bf6a194c373b849818319ee9d17476,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -9.146366
+      objectReference: {fileID: 0}
+    - target: {fileID: 6706584674867125512, guid: 28bf6a194c373b849818319ee9d17476,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 6706584674867125512, guid: 28bf6a194c373b849818319ee9d17476,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 6706584674867125512, guid: 28bf6a194c373b849818319ee9d17476,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 6706584674867125512, guid: 28bf6a194c373b849818319ee9d17476,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 6706584674867125512, guid: 28bf6a194c373b849818319ee9d17476,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6706584674867125512, guid: 28bf6a194c373b849818319ee9d17476,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6706584674867125512, guid: 28bf6a194c373b849818319ee9d17476,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9077693011283469736, guid: 28bf6a194c373b849818319ee9d17476,
+        type: 3}
+      propertyPath: m_Name
+      value: Truck with trailer wheel rear right 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 28bf6a194c373b849818319ee9d17476, type: 3}
+--- !u!1001 &9177161908182399534
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2114215245959681033}
+    m_Modifications:
+    - target: {fileID: 7189846218653424406, guid: 2501fa0ee14786d498e8b68fd8dc3714,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9.2883835
+      objectReference: {fileID: 0}
+    - target: {fileID: 7189846218653424406, guid: 2501fa0ee14786d498e8b68fd8dc3714,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.39986503
+      objectReference: {fileID: 0}
+    - target: {fileID: 7189846218653424406, guid: 2501fa0ee14786d498e8b68fd8dc3714,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -16.006367
+      objectReference: {fileID: 0}
+    - target: {fileID: 7189846218653424406, guid: 2501fa0ee14786d498e8b68fd8dc3714,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 7189846218653424406, guid: 2501fa0ee14786d498e8b68fd8dc3714,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 7189846218653424406, guid: 2501fa0ee14786d498e8b68fd8dc3714,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 7189846218653424406, guid: 2501fa0ee14786d498e8b68fd8dc3714,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 7189846218653424406, guid: 2501fa0ee14786d498e8b68fd8dc3714,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7189846218653424406, guid: 2501fa0ee14786d498e8b68fd8dc3714,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7189846218653424406, guid: 2501fa0ee14786d498e8b68fd8dc3714,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8439688676049438103, guid: 2501fa0ee14786d498e8b68fd8dc3714,
+        type: 3}
+      propertyPath: m_Name
+      value: Truck with trailer wheel rear left 4
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2501fa0ee14786d498e8b68fd8dc3714, type: 3}

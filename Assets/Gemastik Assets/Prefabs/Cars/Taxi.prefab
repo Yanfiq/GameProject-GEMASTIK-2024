@@ -1,0 +1,750 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2569123386377455793
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1380388398045797221, guid: 3ab0855d0cd81c04e97818305bac8d1b,
+    type: 3}
+  m_PrefabInstance: {fileID: 4478658551655693208}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 922859017006354765}
+  - component: {fileID: 8624621021420284312}
+  - component: {fileID: 5265619798157011288}
+  m_Layer: 0
+  m_Name: Taxi wheel rear right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &922859017006354765
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 9011724479160164609, guid: 3ab0855d0cd81c04e97818305bac8d1b,
+    type: 3}
+  m_PrefabInstance: {fileID: 4478658551655693208}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2569123386377455793}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0102653885, y: 0.016088257, z: -0.0019999945}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8337295496158444902}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &8624621021420284312
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4146703410911863983, guid: 3ab0855d0cd81c04e97818305bac8d1b,
+    type: 3}
+  m_PrefabInstance: {fileID: 4478658551655693208}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2569123386377455793}
+  m_Mesh: {fileID: -7246968838773315664, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &5265619798157011288
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 5313593144285203536, guid: 3ab0855d0cd81c04e97818305bac8d1b,
+    type: 3}
+  m_PrefabInstance: {fileID: 4478658551655693208}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2569123386377455793}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &2857712354965974596
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8337295496158444902}
+  m_Layer: 0
+  m_Name: Taxi
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8337295496158444902
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2857712354965974596}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071069, y: -0.000000030908627, z: 0.000000030908616, w: 0.70710665}
+  m_LocalPosition: {x: 8, y: 0.6, z: 2}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1651521295590406568}
+  - {fileID: 5362709453832740343}
+  - {fileID: 1636762474551375908}
+  - {fileID: 6784728031158373334}
+  - {fileID: 922859017006354765}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4964235075186493598
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 9222017577582057001, guid: 5d4badd9a3ff12e4c81c72ac384af19d,
+    type: 3}
+  m_PrefabInstance: {fileID: 4422829280524260945}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5362709453832740343}
+  - component: {fileID: 4457385346671574278}
+  - component: {fileID: 7816635677830682401}
+  m_Layer: 0
+  m_Name: Taxi wheel front left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5362709453832740343
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4118783302928750226, guid: 5d4badd9a3ff12e4c81c72ac384af19d,
+    type: 3}
+  m_PrefabInstance: {fileID: 4422829280524260945}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4964235075186493598}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.0102653885, y: -0.016088234, z: -0.002000004}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8337295496158444902}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &4457385346671574278
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6610320248731900158, guid: 5d4badd9a3ff12e4c81c72ac384af19d,
+    type: 3}
+  m_PrefabInstance: {fileID: 4422829280524260945}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4964235075186493598}
+  m_Mesh: {fileID: -8447721142700839330, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &7816635677830682401
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4230858815649092143, guid: 5d4badd9a3ff12e4c81c72ac384af19d,
+    type: 3}
+  m_PrefabInstance: {fileID: 4422829280524260945}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4964235075186493598}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &5847643146992507867
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1651521295590406568}
+  - component: {fileID: 3126972726277884180}
+  - component: {fileID: 4722214286412884159}
+  m_Layer: 0
+  m_Name: Taxi
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1651521295590406568
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5847643146992507867}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8337295496158444902}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &3126972726277884180
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5847643146992507867}
+  m_Mesh: {fileID: 3186635122631503911, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &4722214286412884159
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5847643146992507867}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 3659940953751687051, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 5029210610703319244, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 8884940142553567970, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: 3055996272150503839, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -535131839395333617, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -492108395051690996, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &8107680018116054238
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6723942681230722769, guid: 36393fb83f46b8a47953a732edd435da,
+    type: 3}
+  m_PrefabInstance: {fileID: 236652919934126878}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1636762474551375908}
+  - component: {fileID: 2856477228588726065}
+  - component: {fileID: 1586484844340513459}
+  m_Layer: 0
+  m_Name: Taxi wheel front right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1636762474551375908
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 3518711395998064442, guid: 36393fb83f46b8a47953a732edd435da,
+    type: 3}
+  m_PrefabInstance: {fileID: 236652919934126878}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8107680018116054238}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0102653885, y: -0.016088234, z: -0.0020000064}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8337295496158444902}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &2856477228588726065
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8460071243227863882, guid: 36393fb83f46b8a47953a732edd435da,
+    type: 3}
+  m_PrefabInstance: {fileID: 236652919934126878}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8107680018116054238}
+  m_Mesh: {fileID: 3851083847923516777, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &1586484844340513459
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 8939954736346359104, guid: 36393fb83f46b8a47953a732edd435da,
+    type: 3}
+  m_PrefabInstance: {fileID: 236652919934126878}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8107680018116054238}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &8223662928839351510
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 6771150206147286227, guid: acf1311c8d3e3784b804cbeef65261c6,
+    type: 3}
+  m_PrefabInstance: {fileID: 2175743085332299143}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6784728031158373334}
+  - component: {fileID: 8217526573002544218}
+  - component: {fileID: 2558124088277925331}
+  m_Layer: 0
+  m_Name: Taxi wheel rear left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6784728031158373334
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 533635404254785595, guid: acf1311c8d3e3784b804cbeef65261c6,
+    type: 3}
+  m_PrefabInstance: {fileID: 2175743085332299143}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8223662928839351510}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.0102653885, y: 0.016088257, z: -0.0019999922}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8337295496158444902}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &8217526573002544218
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4940993974040999386, guid: acf1311c8d3e3784b804cbeef65261c6,
+    type: 3}
+  m_PrefabInstance: {fileID: 2175743085332299143}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8223662928839351510}
+  m_Mesh: {fileID: 2040530747824584727, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+--- !u!23 &2558124088277925331
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 9008822697456705392, guid: acf1311c8d3e3784b804cbeef65261c6,
+    type: 3}
+  m_PrefabInstance: {fileID: 2175743085332299143}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8223662928839351510}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -478035346441924844, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  - {fileID: -1537582836906275740, guid: 1fffe6bbce101cd46ba8a8cb19943e2c, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1001 &236652919934126878
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8337295496158444902}
+    m_Modifications:
+    - target: {fileID: 3518711395998064442, guid: 36393fb83f46b8a47953a732edd435da,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.026539
+      objectReference: {fileID: 0}
+    - target: {fileID: 3518711395998064442, guid: 36393fb83f46b8a47953a732edd435da,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.40000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 3518711395998064442, guid: 36393fb83f46b8a47953a732edd435da,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.6088238
+      objectReference: {fileID: 0}
+    - target: {fileID: 3518711395998064442, guid: 36393fb83f46b8a47953a732edd435da,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 3518711395998064442, guid: 36393fb83f46b8a47953a732edd435da,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 3518711395998064442, guid: 36393fb83f46b8a47953a732edd435da,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 3518711395998064442, guid: 36393fb83f46b8a47953a732edd435da,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 3518711395998064442, guid: 36393fb83f46b8a47953a732edd435da,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3518711395998064442, guid: 36393fb83f46b8a47953a732edd435da,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3518711395998064442, guid: 36393fb83f46b8a47953a732edd435da,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6723942681230722769, guid: 36393fb83f46b8a47953a732edd435da,
+        type: 3}
+      propertyPath: m_Name
+      value: Taxi wheel front right
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 36393fb83f46b8a47953a732edd435da, type: 3}
+--- !u!1001 &2175743085332299143
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8337295496158444902}
+    m_Modifications:
+    - target: {fileID: 533635404254785595, guid: acf1311c8d3e3784b804cbeef65261c6,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.973461
+      objectReference: {fileID: 0}
+    - target: {fileID: 533635404254785595, guid: acf1311c8d3e3784b804cbeef65261c6,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.40000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 533635404254785595, guid: acf1311c8d3e3784b804cbeef65261c6,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.39117432
+      objectReference: {fileID: 0}
+    - target: {fileID: 533635404254785595, guid: acf1311c8d3e3784b804cbeef65261c6,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 533635404254785595, guid: acf1311c8d3e3784b804cbeef65261c6,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 533635404254785595, guid: acf1311c8d3e3784b804cbeef65261c6,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 533635404254785595, guid: acf1311c8d3e3784b804cbeef65261c6,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 533635404254785595, guid: acf1311c8d3e3784b804cbeef65261c6,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 533635404254785595, guid: acf1311c8d3e3784b804cbeef65261c6,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 533635404254785595, guid: acf1311c8d3e3784b804cbeef65261c6,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6771150206147286227, guid: acf1311c8d3e3784b804cbeef65261c6,
+        type: 3}
+      propertyPath: m_Name
+      value: Taxi wheel rear left
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: acf1311c8d3e3784b804cbeef65261c6, type: 3}
+--- !u!1001 &4422829280524260945
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8337295496158444902}
+    m_Modifications:
+    - target: {fileID: 4118783302928750226, guid: 5d4badd9a3ff12e4c81c72ac384af19d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.973461
+      objectReference: {fileID: 0}
+    - target: {fileID: 4118783302928750226, guid: 5d4badd9a3ff12e4c81c72ac384af19d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.40000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 4118783302928750226, guid: 5d4badd9a3ff12e4c81c72ac384af19d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.6088238
+      objectReference: {fileID: 0}
+    - target: {fileID: 4118783302928750226, guid: 5d4badd9a3ff12e4c81c72ac384af19d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 4118783302928750226, guid: 5d4badd9a3ff12e4c81c72ac384af19d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 4118783302928750226, guid: 5d4badd9a3ff12e4c81c72ac384af19d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 4118783302928750226, guid: 5d4badd9a3ff12e4c81c72ac384af19d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 4118783302928750226, guid: 5d4badd9a3ff12e4c81c72ac384af19d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4118783302928750226, guid: 5d4badd9a3ff12e4c81c72ac384af19d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4118783302928750226, guid: 5d4badd9a3ff12e4c81c72ac384af19d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9222017577582057001, guid: 5d4badd9a3ff12e4c81c72ac384af19d,
+        type: 3}
+      propertyPath: m_Name
+      value: Taxi wheel front left
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5d4badd9a3ff12e4c81c72ac384af19d, type: 3}
+--- !u!1001 &4478658551655693208
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8337295496158444902}
+    m_Modifications:
+    - target: {fileID: 1380388398045797221, guid: 3ab0855d0cd81c04e97818305bac8d1b,
+        type: 3}
+      propertyPath: m_Name
+      value: Taxi wheel rear right
+      objectReference: {fileID: 0}
+    - target: {fileID: 9011724479160164609, guid: 3ab0855d0cd81c04e97818305bac8d1b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.026539
+      objectReference: {fileID: 0}
+    - target: {fileID: 9011724479160164609, guid: 3ab0855d0cd81c04e97818305bac8d1b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.40000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 9011724479160164609, guid: 3ab0855d0cd81c04e97818305bac8d1b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.39117432
+      objectReference: {fileID: 0}
+    - target: {fileID: 9011724479160164609, guid: 3ab0855d0cd81c04e97818305bac8d1b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710665
+      objectReference: {fileID: 0}
+    - target: {fileID: 9011724479160164609, guid: 3ab0855d0cd81c04e97818305bac8d1b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 9011724479160164609, guid: 3ab0855d0cd81c04e97818305bac8d1b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000030908627
+      objectReference: {fileID: 0}
+    - target: {fileID: 9011724479160164609, guid: 3ab0855d0cd81c04e97818305bac8d1b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000030908616
+      objectReference: {fileID: 0}
+    - target: {fileID: 9011724479160164609, guid: 3ab0855d0cd81c04e97818305bac8d1b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9011724479160164609, guid: 3ab0855d0cd81c04e97818305bac8d1b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9011724479160164609, guid: 3ab0855d0cd81c04e97818305bac8d1b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3ab0855d0cd81c04e97818305bac8d1b, type: 3}
