@@ -14,7 +14,7 @@ public class WellDoneScreenManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        ShowStars(3);
+        ShowStars(Stars.Length);
     }
 
     public void ShowStars(int numberOfStars)
@@ -39,6 +39,7 @@ public class WellDoneScreenManager : MonoBehaviour
     {
         yield return StartCoroutine(ChangeStarScale(star, EnlargeScale, EnlargeDuration));
         yield return StartCoroutine(ChangeStarScale(star, ShrinkScale, ShrinkDuration));
+        yield return StartCoroutine(startParticle(star));
     }
 
     private IEnumerator ChangeStarScale(Star star, float targetScale, float duration)
@@ -55,5 +56,11 @@ public class WellDoneScreenManager : MonoBehaviour
         }
 
         star.star.transform.localScale = finalScale;
+    }
+
+    private IEnumerator startParticle(Star star)
+    {
+        star.StartParticle();
+        yield return null;
     }
 }
