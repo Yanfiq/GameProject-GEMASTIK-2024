@@ -10,7 +10,7 @@ public class WellDoneScreenManager : MonoBehaviour
     [SerializeField] float EnlargeScale = 1.5f;
     [SerializeField] float ShrinkScale = 1f;
     [SerializeField] float EnlargeDuration = 0.25f;
-    [SerializeField] float ShrinkDuration = 0.25f;
+    [SerializeField] float ShrinkDuration = 0.1f;
     // Start is called before the first frame update
     void Start()
     {
