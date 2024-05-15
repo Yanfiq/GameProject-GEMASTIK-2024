@@ -14,6 +14,7 @@ public class CameraController : MonoBehaviour
     void Awake()
     {
         _cameraInput = new Camera_IA();
+        _cameraInput.Camera.Enable();
 
         _cameraInput.Camera.Move.started += OnMovementInput;
         _cameraInput.Camera.Move.canceled += OnMovementInput;
@@ -23,7 +24,8 @@ public class CameraController : MonoBehaviour
     void Update()
     {
         _currentMovement = new Vector3(_currentMovementInput.x, 0, _currentMovementInput.y);
-        transform.Translate(_currentMovement.normalized * speed * Time.deltaTime);
+        transform.position += _currentMovement.normalized * speed * Time.deltaTime;
+        //transform.Translate(Vector3.right * speed * Time.deltaTime);
     }
 
     void OnMovementInput(InputAction.CallbackContext context)
