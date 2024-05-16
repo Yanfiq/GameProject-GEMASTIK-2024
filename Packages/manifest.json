@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "com.coffee.ui-particle": "4.6.3",
+    "com.littlebigfun.addressable-importer": "0.16.1",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.ai.navigation": "1.1.5",
     "com.unity.cinemachine": "2.9.7",
@@ -15,6 +17,7 @@
     "com.unity.textmeshpro": "3.0.8",
     "com.unity.timeline": "1.7.6",
     "com.unity.ugui": "1.0.0",
+    "com.unity.visualeffectgraph": "14.0.9",
     "com.unity.visualscripting": "1.9.1",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
@@ -47,5 +50,15 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  }
+  },
+  "scopedRegistries": [
+    {
+      "name": "package.openupm.com",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.coffee.ui-particle",
+        "com.littlebigfun.addressable-importer"
+      ]
+    }
+  ]
 }
