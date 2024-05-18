@@ -5,7 +5,6 @@ using UnityEngine.InputSystem;
 
 public class CameraController : MonoBehaviour
 {
-    Camera_IA _cameraInput;
     Vector2 _currentMovementInput;
     Vector3 _currentMovement;
 
@@ -13,12 +12,9 @@ public class CameraController : MonoBehaviour
 
     void Awake()
     {
-        _cameraInput = new Camera_IA();
-        _cameraInput.Camera.Enable();
-
-        _cameraInput.Camera.Move.started += OnMovementInput;
-        _cameraInput.Camera.Move.canceled += OnMovementInput;
-        _cameraInput.Camera.Move.performed += OnMovementInput;
+        InputActionController.Instance.InputAction.Camera.Move.started += OnMovementInput;
+        InputActionController.Instance.InputAction.Camera.Move.canceled += OnMovementInput;
+        InputActionController.Instance.InputAction.Camera.Move.performed += OnMovementInput;
     }
 
     void Update()
