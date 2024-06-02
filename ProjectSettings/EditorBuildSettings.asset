@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Main Menu.unity
+    guid: 32049a79480a5544bbb3a3cfcb722bc2
+  - enabled: 1
+    path: Assets/Scenes/Gemastik Scene.unity
+    guid: a83835c04763f1548aa1b5c46af341d1
   m_configObjects:
     addressableimportsettingslist: {fileID: 11400000, guid: 34900783d8b31f94ea1a0f6d37424d3b,
       type: 2}

@@ -25,7 +25,7 @@ public class CarController : MonoBehaviour
     [SerializeField] private Transform rearLeftWheelTransform;
     [SerializeField] private Transform rearRightWheelTransform;
 
-    private void Awake()
+    private void Start()
     {
         InputActionController.Instance.InputAction.Car.CarMove.started += OnMovementInput;
         InputActionController.Instance.InputAction.Car.CarMove.performed += OnMovementInput;

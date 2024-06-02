@@ -4,7 +4,33 @@ using UnityEngine;
 
 public class Node : MonoBehaviour
 {
-    public bool isWalkable = true;
+    public bool isChecker;
+    [SerializeField] List<Collider> colliders;
+
+    [SerializeField] Node neighbourNode;
+
+    public void Build()
+    {
+        //Animation here
+        foreach (Collider c in colliders) c.enabled = true;
+        if (neighbourNode != null)
+        {
+            neighbourNode.gameObject.SetActive(true);
+            neighbourNode.Build();
+        }
+    }
+
+    void OnTriggerEnter(Collider other)
+    {
+        if (isChecker && other.CompareTag("nodeChecker"))
+        {
+            neighbourNode.gameObject.SetActive(true);
+            neighbourNode.Build();
+            gameObject.SetActive(false);
+        }
+    }
+
+    /*public bool isWalkable = true;
     public List<Node> neighbours = new List<Node>();
 
     Color currColor;
@@ -35,5 +61,5 @@ public class Node : MonoBehaviour
     void OnMouseExit()
     {
         mr.material.color = currColor;
-    }
+    }*/
 }

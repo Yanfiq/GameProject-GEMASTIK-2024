@@ -33,15 +33,16 @@ public class SpawnManager : MonoBehaviour
 
         if (Physics.Raycast(ray, out RaycastHit hitInfo))
         {
-            if (hitInfo.collider.gameObject.GetComponent<Node>() != null &&
-            hitInfo.collider.gameObject.GetComponent<Node>().isWalkable)
+            if (hitInfo.collider.gameObject.GetComponent<Node>() != null /*&&
+            hitInfo.collider.gameObject.GetComponent<Node>().isWalkable*/)
             {
                 currentModule = hitInfo.collider.gameObject.GetComponent<Node>();
                 ghostTransform.position = currentModule.transform.position;
 
                 if (Input.GetMouseButtonDown(0))
                 {
-                    Instantiate(spawnObj, new Vector3(currentModule.transform.position.x, .03f, currentModule.transform.position.z), spawnObj.transform.rotation);
+                    Node newNode = Instantiate(spawnObj, new Vector3(currentModule.transform.position.x, .03f, currentModule.transform.position.z), spawnObj.transform.rotation).GetComponent<Node>();
+                    newNode.Build();
                 }
             }
         }

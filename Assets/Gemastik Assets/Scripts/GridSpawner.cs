@@ -43,7 +43,7 @@ public class GridSpawner : MonoBehaviour
         {
             for (int y = 0; y < size.y; y++)
             {
-                grid[x, y].neighbours = GetNeighbours();
+                //grid[x, y].neighbours = GetNeighbours();
             }
         }
     }

@@ -47,10 +47,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ae0be2153d87294c9829060cd0a0e6f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWalkable: 1
-  neighbours: []
-  g: 0
-  h: 0
+  isChecker: 0
+  colliders: []
+  neighbourNode: {fileID: 0}
 --- !u!1 &3485126455134862540
 GameObject:
   m_ObjectHideFlags: 0

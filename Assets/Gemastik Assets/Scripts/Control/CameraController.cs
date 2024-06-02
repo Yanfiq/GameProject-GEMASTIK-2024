@@ -10,7 +10,7 @@ public class CameraController : MonoBehaviour
 
     [SerializeField] float speed;
 
-    void Awake()
+    void Start()
     {
         InputActionController.Instance.InputAction.Camera.Move.started += OnMovementInput;
         InputActionController.Instance.InputAction.Camera.Move.canceled += OnMovementInput;
