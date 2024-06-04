@@ -40,7 +40,7 @@ public class LoadingScript : MonoBehaviour
         }
         if (runCar)
         {
-            if (car_transform.position.x < Screen.width + car_rectTransform.rect.width*3)
+            if (car_transform.position.x < Screen.width + car_rectTransform.rect.width*5)
             {
                 car_transform.Translate(Vector2.right * 250 * Time.deltaTime);
                 smoke.transform.Translate(Vector2.down * 250 * Time.deltaTime);
