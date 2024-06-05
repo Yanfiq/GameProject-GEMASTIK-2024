@@ -362,7 +362,7 @@ RectTransform:
   m_GameObject: {fileID: 228649616}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 6.2903, y: 3.3204, z: 5.8295}
+  m_LocalScale: {x: 6.7254457, y: 3.6474595, z: 5.8295}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 942370438}
@@ -532,7 +532,7 @@ ParticleSystem:
   ringBufferMode: 0
   ringBufferLoopRange: {x: 0, y: 1}
   emitterVelocityMode: 1
-  looping: 1
+  looping: 0
   prewarm: 0
   playOnAwake: 1
   useUnscaledTime: 0
@@ -5368,6 +5368,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fa6516f0cbba5943bda39e6564beb3a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  loading_time: 10
 --- !u!225 &942370440
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -5601,7 +5602,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -454.00003, y: -10}
+  m_AnchoredPosition: {x: -451.6, y: -10}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1898759371
