@@ -5368,7 +5368,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fa6516f0cbba5943bda39e6564beb3a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  loading_time: 10
+  loading_time: 2
 --- !u!225 &942370440
 CanvasGroup:
   m_ObjectHideFlags: 0

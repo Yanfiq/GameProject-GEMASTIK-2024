@@ -42,5 +42,12 @@ public class VehicleController : MonoBehaviour
         {
             Hatchback.Translate(Vector3.up * (rightBorder_x - Hatchback.position.x));
         }
+
+        // tires muter-muter
+        for(int i=1; i<=4; i++)
+        {
+            this.gameObject.transform.GetChild(0).gameObject.transform.GetChild(i).GetComponent<Transform>().Rotate(new Vector3(velocity, 0, 0));
+            this.gameObject.transform.GetChild(1).gameObject.transform.GetChild(i).GetComponent<Transform>().Rotate(new Vector3(velocity, 0, 0));
+        }
     }
 }
