@@ -36,7 +36,11 @@ public class GameManager : MonoBehaviour
         isLevelFailed = false;
     }
 
-    public void TogglePause() { isPause = !isPause; }
+    public void TogglePause() { 
+        isPause = !isPause;
+        Time.timeScale = isPause ? 0 : 1;
+        pausePanel.SetActive(isPause);
+    }
     public void LevelComplete() { isLevelComplete = true;  }
     public void LevelFailed() { isLevelFailed = true;  }
 
